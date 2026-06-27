@@ -484,8 +484,8 @@ Uma tribo precisa de sete elementos. O Movimento dos Donos tem todos:
 > Cada peça tem documento completo em [`doutrina/`](doutrina/). Abaixo, a essência de cada uma.
 
 ### 🩸 Peça 09 — A Origem · [completo →](doutrina/09-a-origem.md)
-A ferida do líder convertida em missão (Story of Self, Marshall Ganz). O Documento-Mãe recruta a cabeça pela matemática; a Origem recruta o coração pela ferida reconhecida. Estrutura de 5 batimentos — Coleira, Conta, Recusa, Preço, Volta — que o Anthony preenche com a **verdade dele** (nunca inventada). Blindada pela **Lei Anti-Ídolo**: a Origem prova que o caminho funciona, não constrói um trono. O herói é o ouvinte; o líder é o guia.
-> 🗣️ _"Eu já fui o escravo que você é. Por isso eu sei o caminho de volta."_
+A ferida do líder convertida em missão (Story of Self, Marshall Ganz). **Escrita com a história real do Anthony** (fonte: o livro dele) — Jacareí, fev/2013, a luz cortada, a Cintia fazendo arroz no escuro, o porteiro da grade que não abria. Os 5 batimentos — Coleira, Conta, Recusa, Preço, Volta — todos preenchidos, mais a versão-palco de 90 segundos. Blindada pela **Lei Anti-Ídolo** (que nasceu na própria dedicatória dele: _"o bilhão não é meu, eu só executo"_): prova que o caminho funciona, não constrói um trono. O herói é o ouvinte.
+> 🗣️ _"Naquela noite eu decidi que o problema não era a conta de luz."_
 
 ### 🌉 Peça 10 — A Travessia do Abismo · [completo →](doutrina/10-a-travessia-do-abismo.md)
 🔴 **Risco de escala.** O tom de guerra recruta o fanático (16%) e afasta a maioria pragmática (84%) que só quer pagar menos pela casa. Solução: **As Duas Marchas** — a Marcha da Fé (guerra, identidade) e a Marcha da Razão (conta, prova, zero guerra), que convergem no mesmo Dono. Regra de ouro: nunca misturar as duas na mesma peça. A Razão é também o escudo jurídico do movimento.

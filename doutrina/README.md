@@ -24,7 +24,7 @@ Cada peça responde a uma pergunta que o Documento-Mãe deixou em aberto, ancora
 
 Todas as 7 são **doutrina escrita, pronta para calibrar**. O que cada uma ainda pede do Anthony / do time, antes de virar operação:
 
-- **09 A Origem:** preencher o gabarito com a verdade do Anthony (áudio bruto → Carla lapida).
+- **09 A Origem:** ✅ escrita com a história real (fonte: o livro do Anthony, `bloco1-historia-origem-v2` + dedicatória). Falta só gravar a versão-palco de 90s em vídeo (o vídeo-pilar do perfil).
 - **10 Travessia:** decidir o split de conteúdo por marcha e refazer a Peça 04/08 sob essa luz.
 - **11 Células:** escrever a Cartilha do Capitão; definir os primeiros ~12 Capitães (saem dos Fundadores).
 - **12 Anticorpos:** nomear o porta-voz único e o canal de detecção; integrar ao playbook jurídico.
