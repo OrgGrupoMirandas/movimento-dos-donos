@@ -1,9 +1,13 @@
 # Placar do Movimento — Operacional
 
+> ## Familias que plantaram a semente ate hoje: `_____ / 100.000`
+> Label publico do placar. Criterio UNICO = contrato de consorcio fechado (a semente plantada). Nao confundir com "familia livre" — o placar conta a decisao, nao a contemplacao.
+
 ## Criterio oficial
 
 Uma familia entra no placar quando **fecha contrato de consorcio imobiliario pela Yes Consorcio**.
 Esse e o momento em que a familia escolheu o caminho — plantou a semente.
+Criterio UNICO: contrato fechado. Contemplacao e aquisicao do imovel sao bonus de nivel, NAO sao o criterio de contagem.
 
 ## Niveis de progresso
 

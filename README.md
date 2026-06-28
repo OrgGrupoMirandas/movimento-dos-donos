@@ -161,7 +161,7 @@ graph TD
 
 ### 6 · Prova — A Evidência
 
-**Função:** validar a visão com fatos vivos. Histórias de alunos, escrituras, arremates, casos reais, bastidores da holding, imóveis e processos (Iturama, Urbanova). Prova social é o sangue que dá vida à tribo.
+**Função:** validar a visão com fatos vivos. Histórias de Donos, escrituras, arremates, casos reais, bastidores da holding, imóveis e processos (Iturama, Urbanova). Prova social é o sangue que dá vida à tribo.
 **Tom:** documental, jornalístico, real.
 
 > 🗣️ **Frase-mãe:** _"Se existe um brasileiro fazendo, todos podem fazer."_
@@ -376,7 +376,7 @@ O movimento não cresce só pelo líder. Cresce quando cada Dono recruta o próx
 
 > Transparência é a única opção de um movimento real. A visão "100 mil famílias livres" só vira inevitável quando o progresso é público — quando todo mundo vê o número subir.
 
-> ## Famílias livres até hoje: `_____ / 100.000`
+> ## Famílias que plantaram a semente até hoje: `_____ / 100.000`
 > Atualizado publicamente. O número que prova que o movimento está acontecendo — não é promessa, é placar.
 
 ### Por que o placar existe
@@ -385,7 +385,7 @@ Um movimento sem progresso visível vira discurso. Com progresso visível, vira 
 
 ### 🎯 Protocolo do Placar
 
-- **O que conta como "família livre":** defina o critério único e público (ex.: imóvel contemplado/quitado via método, sem financiamento bancário). Critério claro evita inflar o número e protege a credibilidade.
+- **O que conta como "família que plantou a semente":** o critério único e público é **contrato de consórcio fechado** pela Yes Consórcio, sem financiamento bancário. Critério claro evita inflar o número e protege a credibilidade.
 - **Onde aparece:** fixado no topo do perfil, citado em toda palestra, atualizado em marco a cada nova conquista.
 - **Como se atualiza:** cada nova família entra com a prova real (a mesma prova da Camada 6). Placar e prova social são a mesma coisa, vistos de ângulos diferentes.
 - **O ritual do marco:** a cada 1.000 famílias, um momento público de celebração da tribo. Marcos criam dopamina coletiva e relembram que o destino está mais perto.
@@ -422,13 +422,15 @@ graph TD
     A["🎣 ATRAÇÃO — Conteúdo gratuito (Reels, cortes, YouTube)<br/>Educação 80% · gera tribo"]
     B["🔥 ENGAJAMENTO — Webinar / Código 31<br/>Lead entra na missão · ritual de entrada"]
     C["🤝 CONVERSÃO — Comunidade dos Donos<br/>Pertencimento contínuo"]
+    F["🛠️ FERRAMENTA — Arremata.AI (SaaS)<br/>Inteligência de leilão · usa a alavanca"]
     D["🚀 ASCENSÃO — Consultoria 10X<br/>Alto valor · Donos avançados"]
 
-    A --> B --> C --> D
+    A --> B --> C --> F --> D
 
     style A fill:#0c0c0c,color:#b8923f
     style B fill:#8c6d2a,color:#fff
     style C fill:#b8923f,color:#0c0c0c
+    style F fill:#b8923f,color:#0c0c0c
     style D fill:#8a1f1f,color:#fff
 ```
 
