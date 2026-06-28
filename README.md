@@ -11,6 +11,8 @@ A arquitetura completa da tribo. Ideologia, identidade, ritual, linguagem, conte
 
 ## 📑 Sumário
 
+### Camada I — A Engenharia da Tribo _(como a tribo é construída)_
+
 | # | Peça | O que é |
 |---|------|---------|
 | [00](#-peça-00--a-carta-da-tribo) | **A Carta da Tribo** | O pacto de uma página. Quem somos e o que juramos. |
@@ -22,6 +24,20 @@ A arquitetura completa da tribo. Ideologia, identidade, ritual, linguagem, conte
 | [06](#-peça-06--o-ritual-de-reconhecimento) | **O Ritual de Reconhecimento** | A conexão Dono ↔ Dono. A tribo que cria tribos. |
 | [07](#-peça-07--o-placar-do-movimento) | **O Placar do Movimento** | Progresso público. A contagem regressiva para a liberdade. |
 | [08](#-peça-08--guia-do-funil) | **Guia do Funil** | Do estranho ao Dono. A escada de valor e os CTAs. |
+
+### Camada II — A Doutrina de Escala _(como a tribo vira movimento de massa)_
+
+> As 7 peças que transformam uma tribo bem construída numa nação de 100 mil famílias. Cada uma tem um documento completo em [`doutrina/`](doutrina/). Aqui no Documento-Mãe ficam a essência e o link.
+
+| # | Peça | O que resolve | Risco se faltar |
+|---|------|---------------|-----------------|
+| [09](doutrina/09-a-origem.md) | **A Origem** | A ferida do líder vira missão (Story of Self) | Movimento sem alma — lógica não atravessa fogo |
+| [10](doutrina/10-a-travessia-do-abismo.md) | **A Travessia do Abismo** | As Duas Marchas: fanático × pragmático | 🔴 Teto antes das 100 mil — a guerra afasta a maioria |
+| [11](doutrina/11-celulas-e-capitaes.md) | **As Células e os Capitães** | Liderança distribuída, crescimento por divisão | 🔴 O líder vira gargalo — não escala |
+| [12](doutrina/12-os-anticorpos.md) | **Os Anticorpos** | Protocolo de crise e prevenção | 🔴 Morre na primeira crise mal respondida |
+| [13](doutrina/13-a-liturgia-permanente.md) | **A Liturgia Permanente** | A cadência que retém depois do Código 31 | Euforia com prazo de validade — não fixa |
+| [14](doutrina/14-os-fundadores.md) | **Os Fundadores** | Honrar os 1.000 primeiros (First Follower) | Joga fora a lealdade mais barata e forte |
+| [15](doutrina/15-a-iconografia.md) | **A Iconografia** | O símbolo visível que se ostenta | Tribo que ninguém vê não existe |
 
 ---
 
@@ -456,6 +472,44 @@ Uma tribo precisa de sete elementos. O Movimento dos Donos tem todos:
 | Um ritual | Código 31 |
 | Um território | Instagram + YouTube + Comunidades |
 | Um inimigo | O Sistema de Financiamento |
+
+> A Camada I tem os 7 elementos da tribo. A Camada II abaixo é o que falta para a tribo virar **movimento de massa** — a diferença entre uma comunidade forte e uma campanha de nação.
+
+---
+
+# 🏛️ CAMADA II — A DOUTRINA DE ESCALA
+
+> A Camada I constrói a tribo. Mas tribo bem construída ainda não é movimento de 100 mil famílias. Estas 7 peças são a engenharia da escala: a alma que cola, a ponte para a maioria, a estrutura que multiplica, o sistema imune que protege, o ritmo que retém, a lealdade que defende e a bandeira que torna tudo visível.
+>
+> Cada peça tem documento completo em [`doutrina/`](doutrina/). Abaixo, a essência de cada uma.
+
+### 🩸 Peça 09 — A Origem · [completo →](doutrina/09-a-origem.md)
+A ferida do líder convertida em missão (Story of Self, Marshall Ganz). **Escrita com a história real do Anthony** (fonte: o livro dele) — Jacareí, fev/2013, a luz cortada, a Cintia fazendo arroz no escuro, o porteiro da grade que não abria. Os 5 batimentos — Coleira, Conta, Recusa, Preço, Volta — todos preenchidos, mais a versão-palco de 90 segundos. Blindada pela **Lei Anti-Ídolo** (que nasceu na própria dedicatória dele: _"o bilhão não é meu, eu só executo"_): prova que o caminho funciona, não constrói um trono. O herói é o ouvinte.
+> 🗣️ _"Naquela noite eu decidi que o problema não era a conta de luz."_
+
+### 🌉 Peça 10 — A Travessia do Abismo · [completo →](doutrina/10-a-travessia-do-abismo.md)
+🔴 **Risco de escala.** O tom de guerra recruta o fanático (16%) e afasta a maioria pragmática (84%) que só quer pagar menos pela casa. Solução: **As Duas Marchas** — a Marcha da Fé (guerra, identidade) e a Marcha da Razão (conta, prova, zero guerra), que convergem no mesmo Dono. Regra de ouro: nunca misturar as duas na mesma peça. A Razão é também o escudo jurídico do movimento.
+> 🗣️ _"O fanático entra pela bandeira. O resto da nação entra pela conta."_
+
+### 🛡️ Peça 11 — As Células e os Capitães · [completo →](doutrina/11-celulas-e-capitaes.md)
+🔴 **Risco de escala.** 100 mil ÷ 1 Anthony = impossível. Estrutura em 4 patentes (Líder → Capitães → Células de ~12 → Donos) com **crescimento por divisão celular** — 17 divisões passam de 100 mil. O Capitão é **honra, não emprego**: a camada-tribo nunca se mistura com a camada-comercial (sob pena de virar "pirâmide"). O líder forma Capitães que formam Capitães — e deixa de ser o teto.
+> 🗣️ _"Eu não quero 100 mil pessoas me ouvindo. Quero 100 mil pessoas se ouvindo."_
+
+### 🦠 Peça 12 — Os Anticorpos · [completo →](doutrina/12-os-anticorpos.md)
+🔴 **Risco de escala.** Movimento grande é alvo grande, e a crise se vence nas primeiras 6 horas. Prevenção (nunca prometer o que não se controla) + protocolo para os 5 tipos de crise: Mártir Reverso, Ataque de Mídia, Risco Jurídico, Placar Furado, Traição Interna. Doutrina fixa: velocidade > perfeição, frieza sempre, número não emoção, uma boca só, transformar ataque em prova.
+> 🗣️ _"Eles vão atacar. A gente não grita de volta — a gente mostra a conta."_
+
+### 🔔 Peça 13 — A Liturgia Permanente · [completo →](doutrina/13-a-liturgia-permanente.md)
+Código 31 é o batismo; falta a missa de domingo. O **Loop do Dono** (gatilho → ação → recompensa variável → investimento) e o **Calendário Sagrado** em 4 ritmos: o Gesto diário, a Missa semanal (Live + Célula), o Marco mensal (C31 + placar), a Peregrinação anual. Mais os feriados próprios do movimento. Retenção é problema de ritmo, não de convencimento.
+> 🗣️ _"A gente não te dá um evento — a gente te dá um ritmo."_
+
+### 🏅 Peça 14 — Os Fundadores · [completo →](doutrina/14-os-fundadores.md)
+Os primeiros 1.000 Donos = "Os Fundadores", numerados 001–1.000. Quando bate 1.000, fecha para sempre (escassez real — o tempo não volta). O ativo mais leal e mais barato do movimento: honra quem acreditou **antes da prova existir** (Derek Sivers, o primeiro seguidor). Privilégios de status/acesso/legado — nunca retorno por antiguidade. São os Capitães naturais da Peça 11.
+> 🗣️ _"Vocês entraram quando só tinha a minha palavra. Isso não tem preço."_
+
+### 🎖️ Peça 15 — A Iconografia · [completo →](doutrina/15-a-iconografia.md)
+A língua (Peça 03) é invisível; falta a bandeira. Os 4 elementos visuais: o **Emblema** (recomendado: A Chave — posse, não permissão), as **Cores** já existentes formalizadas (preto-sistema, dourado-patrimônio, sangue-guerra, branco-verdade), o **Gesto** físico de saudação, e a **Assinatura** tipográfica (adota o estilo Molina). Regra: molde com rigor absoluto, depois solte livre para o mundo.
+> 🗣️ _"Dá pra reconhecer um Dono do outro lado da rua — antes dele abrir a boca."_
 
 ---
 
