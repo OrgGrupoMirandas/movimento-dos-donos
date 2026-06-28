@@ -16,15 +16,25 @@
 | Sex | Mecanica aplicada | Paga menos, possui mais — na pratica |
 | Sab-Dom | Visao e legado | 100 mil familias, frase do legado |
 
+## As Duas Marchas (Peca 10)
+
+Uma missao, dois tons de entrada que convergem no mesmo Dono. NUNCA misturar os dois na mesma peca.
+
+- **Marcha da Fe** — guerra, indignacao, identidade. Inimigo nomeado ("o Sistema"), vocabulario da tribo cheio, CTA "entra no movimento". Recruta o militante (16%). Vive no TOPO (cortes virais, alcance).
+- **Marcha da Razao** — conta, prova, ZERO guerra. Sem "sistema", sem "tribo", sem "junta-se a nos". So o numero, o comparativo, o caso parecido com ele. CTA "faz a simulacao". Recruta o pragmatico (84%). Vive no MEIO e FUNDO.
+
+> Toda promessa mora na Fe; toda prova mora na Razao. A Razao e tambem o escudo juridico do movimento.
+
 ## Filtro de publicacao
 
-Toda peca passa por 3 filtros antes de publicar:
+Toda peca passa por 4 filtros antes de publicar:
 
-1. **Esta lucida?** Tem numero, logica, clareza.
-2. **Esta fria?** Sem desespero, sem grito.
-3. **Esta indignada?** Aponta o absurdo de um jeito que incomoda o sistema.
+1. **E da Fe ou da Razao?** Se voce nao souber responder, a peca esta morna. Volta. (NUNCA misturar as duas.)
+2. **Esta lucida?** Tem numero, logica, clareza.
+3. **Esta fria?** Sem desespero, sem grito.
+4. **Esta indignada?** (so Marcha da Fe) Aponta o absurdo de um jeito que incomoda o sistema. Na Marcha da Razao este filtro nao se aplica — ali nao tem guerra.
 
-Se faltar um dos tres, a peca volta.
+Se faltar um deles, a peca volta.
 
 ## Workflow
 
