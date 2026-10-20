@@ -1,5 +1,7 @@
 # 🎖️ PEÇA 15 — A ICONOGRAFIA
 
+Última atualização editorial: 20/10/2026.
+
 > A marca que se ostenta. A peça que dá ao movimento um **corpo visível** — o símbolo que o Dono usa na bio, no carro, na camiseta, na pele se quiser. Linguagem (Peça 03) é a língua da tribo; iconografia é a **bandeira** dela. Toda tribo que virou movimento teve as duas.
 >
 > _Douglas Atkin, "The Culting of Brands" (o símbolo como pertencimento visível) + Seth Godin (o "território" da tribo, que hoje é só citado). A maçã, o swoosh, o boné vermelho, a cruz, a foice: nenhum movimento de massa foi invisível._
@@ -50,7 +52,7 @@ Um elo de corrente rompido, ou uma coleira aberta.
 
 ### Conceito C — O "31"
 O número do ritual (Código 31) virado monograma — o "3" e o "1" entrelaçados num emblema.
-- **O significado:** o rito de passagem. Quem usa, passou pelos 31 dias. É o mais "iniciático" — separa quem fez de quem não fez.
+- **O significado:** o rito de passagem. O uso expressa pertencimento; não certifica uma jornada de 31 dias nem aquisição de imóvel. Não distingue compradores de não compradores nem certifica resultado.
 - **Por que é interessante:** já é um ativo do movimento, ninguém mais tem.
 - **Risco:** abstrato demais sem explicação. Funciona melhor como **selo secundário** (o selo de quem completou o C31) do que como emblema-mãe.
 

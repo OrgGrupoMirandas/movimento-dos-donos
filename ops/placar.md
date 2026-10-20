@@ -1,52 +1,36 @@
-# Placar do Movimento — Operacional
+# Placar do Movimento — critérios e evidências
 
-> ## Familias que plantaram a semente ate hoje: `_____ / 100.000`
-> Label publico do placar. Criterio UNICO = contrato de consorcio fechado (a semente plantada). Nao confundir com "familia livre" — o placar conta a decisao, nao a contemplacao.
+Última atualização: 20/10/2026.
 
-## Criterio oficial
+A missão pública é **100 mil famílias comprando o primeiro imóvel**. O marco histórico “semente plantada” continua existindo, mas mede entrada por contrato, não missão cumprida. A correção abaixo é documental; não altera dados nem prova automação implantada.
 
-Uma familia entra no placar quando **fecha contrato de consorcio imobiliario pela Yes Consorcio**.
-Esse e o momento em que a familia escolheu o caminho — plantou a semente.
-Criterio UNICO: contrato fechado. Contemplacao e aquisicao do imovel sao bonus de nivel, NAO sao o criterio de contagem.
+## Indicadores separados
 
-## Niveis de progresso
+| Indicador | Evento comprovado | Fonte a conferir | Limite |
+|---|---|---|---|
+| Semente — titulares com contrato confirmado | Adesão validada | CRM conciliado com contrato/administradora | Não chamar de famílias com imóvel ou famílias livres |
+| Raiz — titulares contemplados | Contemplação confirmada | CS + administradora | Não equivale a aquisição |
+| Árvore — famílias com imóvel adquirido | Aquisição comprovada e família identificada | CS + documento de aquisição | Separar primeiro imóvel das aquisições seguintes |
+| Progresso da missão | Primeiro imóvel da família comprovado | Evidência de aquisição + confirmação da condição de primeiro imóvel | Somente este indicador pode ser comparado à meta pública de 100 mil |
+| Continuidade — imóvel locado | Locação comprovada | Evidência da operação | Não confundir aluguel anunciado com renda recebida ou líquida |
 
-| Nivel | Evento | Conta no placar? | Fonte |
-|-------|--------|------------------|-------|
-| Semente | Contrato fechado | SIM — marco oficial | Bitrix deal ganho cat 0 |
-| Raiz | Carta contemplada | Bonus (sobe nivel do Dono) | CS / administradora |
-| Arvore | Imovel adquirido | Bonus (case de prova social) | CS / escritura |
+## Integridade
 
-## Regras de integridade
+- CPF identifica titular; não demonstra sozinho uma família. Duas pessoas da mesma família exigem conciliação. Até existir vínculo familiar validado, publicar **titulares únicos**, sem renomeá-los como famílias.
+- Várias cartas do mesmo titular não geram vários titulares. Negócios repetidos não geram novas aquisições.
+- Deal ganho é sinal para conferência; não deve incrementar publicação automaticamente sem contrato validado e deduplicação.
+- Mostrar período, data de corte, fonte, unidade contada e pendências. Histórico desde 2024 só entra após conciliação, não por presunção.
+- Para adesões, separar acumulado histórico e situação atual: ativos, cancelados e pendentes. Cancelamento não apaga fato histórico; impede apresentar adesão cancelada como ativa.
+- Provas individuais ficam em ambiente restrito. Comunicação pública usa dados agregados e casos autorizados.
+- Qualquer celebração informa o estágio: adesão, contemplação, aquisição ou primeiro imóvel. Atingir 100 mil adesões não encerra a missão.
 
-1. **1 familia = 1 CPF titular.** Mesma familia com 2 cartas conta 1 vez.
-2. **Contagem retroativa:** todo contrato Yes desde o inicio da operacao (2024+).
-3. **Atualizacao:** deal ganho no Bitrix cat 0 incrementa automaticamente.
-4. **Auditoria trimestral:** cruzar placar vs contratos reais na administradora.
-5. **O numero e publico.** Se alguem pedir a lista, ela existe.
+## Responsabilidades e implantação
 
-## Marcos de celebracao
+| Responsável | Entrega |
+|---|---|
+| Kamila / CS | Conferir marcos e evidências do atendimento |
+| Edwards + Midiane | Conciliar critérios e números antes de divulgação; revisão periódica |
+| Nériton | Avaliar implementação de deduplicação e atualização após critérios fechados |
+| Felipe Clavijo / Growth + Carla | Comunicar somente o indicador validado com nome e corte corretos |
 
-| Marco | Acao |
-|-------|------|
-| Cada 100 familias | Post comemorativo (Carla + Ralph) |
-| Cada 1.000 familias | Evento de celebracao da tribo |
-| 10.000 familias | Marco historico — campanha especial |
-| 100.000 familias | Missao cumprida |
-
-## Responsaveis
-
-| Etapa | Dono |
-|-------|------|
-| Contagem automatica (webhook Bitrix) | Neriton |
-| Publicacao de marco | Carla + Ralph |
-| Auditoria trimestral | Edwards + Midiane |
-| Exibicao no site/perfil | Ralph |
-
-## Implementacao tecnica — a construir
-
-- [ ] Webhook Bitrix: deal ganho cat 0 → incrementa contador
-- [ ] API/endpoint publico para consultar o numero atual
-- [ ] Widget para site (codigo31.anthonymiranda.com.br)
-- [ ] Integracao com IG bio (atualizacao manual mensal)
-- [ ] Dashboard interno com breakdown por mes/closer
+Estado: **critérios documentados; integração, baseline e publicação ainda não comprovados nesta revisão**. Primeiro passo: reconciliar uma amostra existente e registrar divergências antes de automatizar. Não criar contador paralelo.

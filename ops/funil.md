@@ -1,5 +1,7 @@
 # Funil — Escada de Valor
 
+Última atualização editorial: 20/10/2026.
+
 ## Principio
 
 Vaynerchuk no topo: da, da, da — valor sem pedir nada.
@@ -10,9 +12,9 @@ A ponte entre os dois e a frase do legado.
 
 | Degrau | Produto | Status | Dono operacional | CTA |
 |--------|---------|--------|------------------|-----|
-| Topo de funil | Conteudo gratuito | ATIVO | Ralph + Carla | "Segue o movimento" |
+| Topo de funil | Conteudo gratuito | ATIVO | Felipe Clavijo (Head de Growth) + Carla | "Segue o movimento" |
 | Entrada | Codigo 31 (live mensal) | ATIVO | Anthony + Neriton | "Entra no Codigo 31" |
-| Nucleo | Comunidade dos Donos | ATIVO (Cademi) | Edwards + Kamila | "Vira Dono de verdade" |
+| Nucleo | Comunidade dos Donos | ATIVO (Cademi) | Edwards + Kamila | "Conheça a Comunidade dos Donos" |
 | Ferramenta | Arremata.AI | ATIVO (SaaS) | Neriton | "Usa a alavanca" |
 | Topo da escada | Consultoria 10X | ATIVO | Anthony | "Joga o jogo 10X" |
 

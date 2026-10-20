@@ -1,5 +1,7 @@
 # 🔔 PEÇA 13 — A LITURGIA PERMANENTE
 
+Última atualização editorial: 20/10/2026.
+
 > O calendário sagrado do movimento. A peça que mantém o Dono dentro depois que a empolgação do começo passa. Código 31 é o **batismo** — a entrada. Mas nenhuma fé se sustenta só no batismo. Ela se sustenta na **missa de domingo**: a cadência que repete, lembra e renova.
 >
 > _Nir Eyal, "Hooked" (o loop do hábito) + BJ Fogg (o gatilho que dispara o comportamento) + 2 mil anos de liturgia religiosa, que descobriu antes de todo mundo como manter um bilhão de pessoas voltando toda semana._
@@ -8,7 +10,7 @@
 
 ## O buraco no funil
 
-A Peça 08 leva o estranho até virar Dono. E depois? O Documento-Mãe não diz o que acontece no **dia 200**. O Código 31 dura 31 dias — e no dia 32, o Dono está sozinho com a empolgação esfriando.
+A Peça 08 leva o estranho até virar Dono. E depois? O Documento-Mãe não diz o que acontece no **dia 200**. O Código 31 é um evento de entrada. A continuidade exige encontros, responsáveis e ações posteriores; não se presume acompanhamento de 31 dias.
 
 > Movimento sem cadência permanente vira **euforia com data de validade**. A pessoa entra fervorosa, vibra por algumas semanas, e some — não porque desacreditou, mas porque **nada a fez voltar**. A retenção não é um problema de convencimento. É um problema de **ritmo**.
 
@@ -36,10 +38,10 @@ graph LR
 |-------|--------------|
 | 🔔 **Gatilho** | A Live semanal no mesmo horário. A reunião da célula. A notificação do placar subindo. O ritual diário. |
 | ⚡ **Ação** | Aparecer, comentar, dar a saudação, trazer um Dono, registrar uma micro-vitória. |
-| 🎁 **Recompensa variável** | Reconhecimento público (nunca sabe quando vem = vicia), uma resposta do Anthony, ver o próprio nome numa história, o placar bater um marco. O "variável" é o segredo: recompensa certa entedia, recompensa surpresa fideliza. |
-| 🌱 **Investimento** | Cada vitória registrada, cada Dono trazido, cada degrau na célula = o Dono **deposita** algo no movimento. E ninguém abandona aquilo onde investiu. Quanto mais ele põe, mais difícil sair. |
+| 🎁 **Recompensa variável** | Ajuda útil, reconhecimento consentido de contribuição e avanço comprovado. Critérios claros; não depender de uma resposta do Anthony. |
+| 🌱 **Investimento** | Cada vitória registrada, cada Dono trazido, cada degrau na célula = o Dono **deposita** algo no movimento. O membro deve permanecer pelo valor recebido, com liberdade para deixar de participar. |
 
-> O Código 31 já é um loop perfeito de 31 dias. A Liturgia é o que faz o loop **nunca parar de girar** depois do dia 31.
+> A cadência abaixo é desenho de operação, não prova de implantação. A primeira aplicação deve seguir a [jornada do membro](../ops/reconhecimento.md), com responsáveis e evidências.
 
 ---
 
@@ -77,7 +79,7 @@ O coração da liturgia. **Toda semana, mesmo dia, mesmo horário** — a previs
 ### 🏆 O ritmo MENSAL — O Marco
 
 - **Código 31** (Peça 08): a cada mês, uma nova turma entra pelo batismo. Para quem já é Dono, o C31 mensal é a chance de **trazer alguém** (a ação do loop) e de reviver a própria entrada.
-- **O Marco do Placar** (Peça 07): cada 100 famílias = celebração pública. A contagem subindo é o gatilho coletivo — o movimento inteiro vê que está acontecendo. _"Não é promessa, é placar."_
+- **O Marco do Placar** (Peça 07): cada marco validado = celebração com indicador e unidade definidos em [ops/placar.md](../ops/placar.md). A contagem subindo é o gatilho coletivo — o movimento inteiro vê que está acontecendo. _"Não é promessa, é placar."_
 
 ### ⛰️ O ritmo ANUAL — A Peregrinação
 
@@ -95,8 +97,8 @@ Toda tribo tem datas próprias — dias que o calendário comum ignora mas a tri
 |---------|---------------|
 | **O Aniversário do Movimento** | O dia em que a primeira família foi livre. A data-zero da contagem. |
 | **O Dia do Dono** | Uma data anual de orgulho coletivo — todo Dono posta a própria virada. |
-| **Os Marcos do Placar** | 1.000 / 10.000 / 50.000 famílias — cada um vira feriado espontâneo. |
-| **A Virada de cada Dono** | O "aniversário" pessoal: o dia em que **aquele** Dono fechou. Celebrado na célula todo ano. |
+| **Os Marcos do Placar** | Marcos propostos, sujeitos ao indicador e unidade validados no [placar](../ops/placar.md); nunca converter adesões em famílias com imóvel. |
+| **A Virada de cada Dono** | O marco pessoal escolhido pelo participante: entrada, primeiro avanço ou conquista comprovada. Celebração consentida, sem compra obrigatória. |
 
 > Datas próprias transformam tempo em pertencimento. Quem comemora as mesmas datas, pertence à mesma tribo.
 

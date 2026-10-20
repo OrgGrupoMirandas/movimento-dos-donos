@@ -1,5 +1,7 @@
 # Midia e PR — Operacional
 
+Última atualização editorial: 20/10/2026.
+
 ## As 3 ancoras inegociaveis
 
 Em qualquer aparicao, dizer:
@@ -22,10 +24,10 @@ Se a entrevista acabar e essas tres nao foram ditas, a aparicao foi desperdicada
 ## Workflow
 
 ```
-Ralph prospecta podcast/midia (lista mensal)
+Felipe Clavijo (Head de Growth) prospecta podcast/midia (lista mensal)
     |
     v
-Ralph agenda no calendario Anthony
+Felipe Clavijo (Head de Growth) agenda no calendario Anthony
     |
     v
 Carla prepara briefing 24h antes (1 pagina: 3 ancoras + dados + case)
@@ -37,7 +39,7 @@ Anthony participa
 Clipadores extraem 5-10 cortes
     |
     v
-Ralph distribui em todos os canais
+Felipe Clavijo (Head de Growth) distribui em todos os canais
 ```
 
 ## Regra

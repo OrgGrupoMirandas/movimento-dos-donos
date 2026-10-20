@@ -1,6 +1,7 @@
 # 📘 O MOVIMENTO DOS DONOS — Documento-Mãe
 
-> **Versão Oficial · Uso interno · Treinamento · Escala**
+> **Documento-mãe · Uso interno · Treinamento · Escala**
+> Atualização editorial: 20/10/2026. A jornada operacional proposta está em [Reconhecimento e comunidade](ops/reconhecimento.md); implantação depende de responsável, capacidade e evidência.
 > Autor: Anthony Miranda
 >
 > _"O primeiro imóvel é para você. O segundo é para uma geração."_
@@ -47,23 +48,23 @@ A arquitetura completa da tribo. Ideologia, identidade, ritual, linguagem, conte
 
 ### Quem somos
 
-Somos o **Movimento dos Donos**. Não somos alunos, não somos seguidores, não somos clientes. Somos pessoas comuns que decidiram parar de pedir permissão ao banco para ter o que é nosso. O contrário de endividado não é "quitado". O contrário de endividado é **DONO**.
+Somos o **Movimento dos Donos**: pessoas que assumem responsabilidade pelas próprias decisões e constroem patrimônio para a família. Ser Dono é uma identidade de participação e compromisso; não certifica propriedade, ausência de dívida ou resultado financeiro. A pessoa pode participar antes de comprar. Em contratos e atendimento, aluno e cliente continuam sendo os termos precisos.
 
 ### Contra o que lutamos
 
-Lutamos contra o sistema que treinou o brasileiro a financiar a vida inteira — a entregar 30 anos de trabalho em troca de uma coleira chamada parcela. O financiamento é a coleira. O banco é o dono. Nós viemos para inverter essa relação.
+Combatemos decisões patrimoniais sem clareza de custos, prazos e consequências. A crítica a um mecanismo precisa de fatos e comparação adequada ao caso. O compromisso central é servir à família, inclusive quando o próximo passo adequado for esperar, estudar ou não contratar.
 
 ### O que buscamos
 
-**100 mil famílias livres.** Não é uma meta de vendas. É uma missão. Cada família que sai da escravidão do financiamento é uma prova viva de que o jogo pode ser jogado de outro jeito.
+**100 mil famílias comprando o primeiro imóvel.** Essa é a missão pública. “100 mil famílias livres” expressa a visão; contratos, contemplações e aquisições são etapas distintas, conforme o [placar](ops/placar.md). Renda de aluguel e legado são caminhos de continuidade, não resultados automáticos.
 
 ### Como nos comportamos
 
-Com disciplina e frieza. Não gritamos — apontamos o absurdo com calma, e a calma destrói o sistema. Não vivemos de aparência. Honramos o **Código 31**: 31 dias de comportamento que transformam quem entra. Quem cumpre o ritual, vira Dono.
+Com disciplina, clareza e respeito. Estudamos, registramos um próximo passo possível e compartilhamos aprendizados. O **Código 31** é um evento de entrada; não equivale a acompanhamento de 31 dias nem promete aquisição de imóvel nesse prazo. A continuidade pertence à jornada da comunidade.
 
 ### O que significa ser Dono · O que significa Nunca Financiar
 
-Ser Dono é ter liberdade, patrimônio e responsabilidade no jogo de longo prazo. Nunca Financiar não é nunca dever — é nunca aceitar dívida cara e burra quando existe dívida inteligente. É **pagar menos e possuir mais**.
+Ser Dono é ter liberdade, patrimônio e responsabilidade no jogo de longo prazo. “Nunca Financia” é linguagem histórica do movimento, não uma regra universal para decidir uma contratação. “Paga Menos, Possui Mais” expressa uma intenção; cada comparação deve mostrar custos totais, prazo, riscos e condições. A ferramenta serve ao objetivo da família.
 
 > ### O primeiro imóvel é para você. O segundo é para uma geração.
 > O pacto da tribo: o que construímos não termina em nós. Começa em nós.
@@ -83,11 +84,11 @@ Você foi treinado. Treinado para achar que financiar a casa por 30 anos é "con
 
 A gente para por aqui. A gente olha a conta, faz a matemática fria, e enxerga o que sempre esteve na nossa frente: existe outro caminho. O caminho do consórcio, do lance, da alavanca. O caminho de quem paga menos e possui mais.
 
-Não viemos vender um sonho. Viemos tirar uma venda dos olhos. Aqui ninguém vive de aparência — aqui todo mundo vira Dono. E Dono não pede permissão.
+Não viemos vender um sonho. Viemos tirar uma venda dos olhos. Aqui ninguém vive de aparência — aqui construímos patrimônio com responsabilidade. E Dono não pede permissão.
 
 > **Isso não é opinião. Isso é matemática.**
 
-Somos 100 mil famílias caminhando para a mesma direção: a liberdade. Não pela sorte, mas pela disciplina. Não em 30 anos, mas no tempo de quem decide jogar o jogo certo.
+Nossa missão é alcançar 100 mil famílias caminhando na mesma direção: a liberdade. Não pela sorte, mas pela disciplina. Não em 30 anos, mas no tempo de quem decide jogar o jogo certo.
 
 E quando você chegar lá, lembra do pacto:
 
@@ -122,18 +123,18 @@ graph TD
     style V fill:#0c0c0c,color:#b8923f
 ```
 
-> **A base é a guerra. O topo é a voz que a conduz. Quanto mais fundo, mais inegociável.**
+> **A base é a missão das famílias. Identidade, linguagem e voz existem para apoiar decisões e avanços reais.**
 
 ### 1 · Ideologia — A Guerra
 
-**Função:** declarar o inimigo, gerar polarização, criar movimento. Sem inimigo, não existe tribo. Sem guerra, não existe viralização. O inimigo é o sistema bancário que prende o brasileiro por 30 anos.
+**Função:** tornar visível um problema real e mobilizar em torno da conquista patrimonial da família. Conflito é recurso editorial, não obrigação em toda peça nem garantia de alcance. Toda crítica precisa ser sustentada por fatos.
 **Tom:** indignação moral + frieza cirúrgica.
 
 > 🗣️ **Frase-mãe:** _"O brasileiro não é burro. Ele foi treinado para financiar."_
 
 ### 2 · Visão — O Destino
 
-**Função:** criar missão histórica. Não é sobre dinheiro nem sobre consórcio — é sobre libertar famílias do sistema. É maior que o Anthony, maior que a empresa. É uma causa que transforma seguidor em discípulo.
+**Função:** criar missão histórica. Não é sobre dinheiro nem sobre consórcio — é sobre libertar famílias do sistema. É maior que o Anthony, maior que a empresa. É uma causa que forma participantes capazes de decidir, agir e ajudar outras famílias.
 **Tom:** histórico, grandioso, inevitável.
 
 > 🗣️ **Frase-mãe:** _"Quando você me segue, não está seguindo um influenciador. Está ajudando a libertar 100 mil famílias brasileiras."_
@@ -143,14 +144,14 @@ graph TD
 **Função:** transformar seguidores em membros. Aqui mora o pertencimento, os valores comuns, a linguagem própria, os símbolos e rituais. A pessoa não compra um curso — ela se torna parte do Movimento dos Donos.
 **Tom:** exclusivo, forte, de irmandade.
 
-> 🗣️ **Frase-mãe:** _"Aqui ninguém vive de aparência. Aqui todo mundo vira Dono."_
+> 🗣️ **Frase-mãe:** _"Aqui ninguém vive de aparência. Aqui construímos patrimônio com responsabilidade."_
 
 ### 4 · Ritual — A Rotina
 
-**Função:** criar disciplina e transformação real. O **Código 31** é o rito de passagem: 31 dias de disciplina, comportamento, decisão e micro-vitórias. O ritual não ensina — ele molda a identidade. Gera dopamina, hábito e vínculo.
+**Função:** marcar a entrada e orientar uma decisão informada. O **Código 31** é o evento; sua oferta, duração e entregas seguem a edição vigente. Os hábitos e encontros posteriores são definidos na [jornada do membro](ops/reconhecimento.md), não presumidos a partir do nome do evento.
 **Tom:** disciplina militar, teste de fogo.
 
-> 🗣️ **Frase-mãe:** _"31 dias para virar Dono. 31 dias para quebrar o sistema."_
+> 🗣️ **Frase-mãe:** _"Entenda o próximo passo. Decida com clareza."_
 
 ### 5 · Mecânica — O Como
 
@@ -164,7 +165,7 @@ graph TD
 **Função:** validar a visão com fatos vivos. Histórias de Donos, escrituras, arremates, casos reais, bastidores da holding, imóveis e processos (Iturama, Urbanova). Prova social é o sangue que dá vida à tribo.
 **Tom:** documental, jornalístico, real.
 
-> 🗣️ **Frase-mãe:** _"Se existe um brasileiro fazendo, todos podem fazer."_
+> 🗣️ **Frase-mãe:** _"Cada caso mostra um caminho e as condições necessárias para percorrê-lo."_
 
 ### 7 · Voz — O Tom
 
@@ -194,12 +195,12 @@ graph TD
 | Termo | O que significa | Como usar |
 |-------|-----------------|-----------|
 | **Nunca Financia** | O grito de guerra. Recusa à dívida cara e burra do banco. | Abre vídeo, fecha palestra, gera polêmica. |
-| **Dono** | A identidade da tribo. Liberdade + patrimônio + responsabilidade. | Sempre no lugar de "aluno", "seguidor" ou "cliente". |
+| **Dono** | A identidade de responsabilidade, participação e construção patrimonial. | Usar em pertencimento; manter aluno, cliente e titular onde forem precisos. |
 | **Alavanca** | O lance no consórcio. A engenharia que multiplica patrimônio. | "Usar a alavanca", "engenharia de patrimônio". |
-| **Código 31** | O rito de passagem de 31 dias. | Como desafio e porta de entrada. |
+| **Código 31** | O evento de entrada e educação do movimento. | Como convite ao evento; duração e entregas são as da edição anunciada. |
 | **Paga Menos, Possui Mais** | A mecânica em uma frase. | Resumo do método, sempre que explicar o "como". |
 | **O Sistema** | O antagonista: o modelo bancário de financiamento. | Nunca personalizar num banco só. "O sistema" é maior. |
-| **Dívida inteligente** | O oposto da dívida do banco. Estruturada, planejada. | Contraste direto com "dívida cara". |
+| **Dívida inteligente** | Decisão analisada pelo custo, prazo, risco e capacidade. | Não atribuir automaticamente a um produto. |
 | **100 mil famílias livres** | A visão. O destino coletivo. | Sempre que a conversa precisar de causa, não de produto. |
 | **O Pacto da Geração** | O mantra do legado: _"O primeiro imóvel é para você. O segundo é para uma geração."_ | Frase-mãe nível mantra. Fecha histórias de prova, eleva a visão, ancora todo material de topo. |
 
@@ -209,7 +210,7 @@ Esta não é uma frase de apoio — é o mantra do movimento, no mesmo nível qu
 
 ### Regra de ouro da linguagem
 
-Nunca dilua. "Financiamento ruim" não existe no nosso vocabulário — existe "a coleira". "Comprar um curso" não existe — existe "virar Dono". A palavra escolhida carrega a ideologia. Trocar a palavra é enfraquecer o movimento.
+Usar a identidade sem esconder o que está sendo oferecido. Compra de curso, adesão a consórcio, participação na comunidade e aquisição de imóvel são fatos diferentes. Nenhuma frase de força autoriza promessa universal, prazo não contratado ou inferiorização de quem escolheu outro caminho.
 
 ---
 
@@ -374,42 +375,7 @@ O movimento não cresce só pelo líder. Cresce quando cada Dono recruta o próx
 
 ## 📊 PEÇA 07 — O Placar do Movimento
 
-> Transparência é a única opção de um movimento real. A visão "100 mil famílias livres" só vira inevitável quando o progresso é público — quando todo mundo vê o número subir.
-
-> ## Famílias que plantaram a semente até hoje: `_____ / 100.000`
-> Atualizado publicamente. O número que prova que o movimento está acontecendo — não é promessa, é placar.
-
-### Por que o placar existe
-
-Um movimento sem progresso visível vira discurso. Com progresso visível, vira força da natureza. Cada família contabilizada é uma prova viva de que o caminho funciona, e cada novo número convida o próximo a entrar. O placar transforma a visão de uma frase bonita em uma contagem regressiva coletiva rumo à liberdade.
-
-### 🎯 Protocolo do Placar
-
-- **O que conta como "família que plantou a semente":** o critério único e público é **contrato de consórcio fechado** pela Yes Consórcio, sem financiamento bancário. Critério claro evita inflar o número e protege a credibilidade.
-- **Onde aparece:** fixado no topo do perfil, citado em toda palestra, atualizado em marco a cada nova conquista.
-- **Como se atualiza:** cada nova família entra com a prova real (a mesma prova da Camada 6). Placar e prova social são a mesma coisa, vistos de ângulos diferentes.
-- **O ritual do marco:** a cada 1.000 famílias, um momento público de celebração da tribo. Marcos criam dopamina coletiva e relembram que o destino está mais perto.
-
-> ⚠️ **Regra inegociável:** o placar só funciona se o número for real e verificável. No momento em que vira marketing inflado, ele se torna a maior vulnerabilidade do movimento em vez da maior força — porque um movimento construído sobre "matemática, não opinião" não pode ter um placar que não fecha a conta.
-
-### Criterio oficial de contagem
-
-Uma familia entra no placar quando **fecha contrato de consorcio imobiliario pela Yes Consorcio**. Esse e o momento em que a familia escolheu o caminho — plantou a semente. Nao precisa esperar contemplacao nem aquisicao do imovel, porque a decisao ja foi tomada.
-
-| Nivel | Evento | Conta no placar? | Fonte de dados |
-|-------|--------|------------------|----------------|
-| Semente | Contrato de consorcio fechado | SIM — e esse o marco | Bitrix CRM (deal ganho cat 0) |
-| Raiz | Carta contemplada (lance ou sorteio) | Bonus — sobe nivel do Dono | CS / administradora |
-| Arvore | Imovel adquirido (leilao ou mercado) | Bonus — case de prova social | CS / escritura |
-
-**Regras de integridade:**
-- 1 familia = 1 CPF titular. Mesma familia com 2 cartas conta 1 vez.
-- Contagem retroativa: todo contrato Yes desde o inicio da operacao (2024+).
-- Atualizacao: todo deal ganho no Bitrix cat 0 incrementa o placar automaticamente.
-- Auditoria trimestral: cruzar placar vs contratos reais na administradora.
-- O numero e publico. Se alguem pedir a lista, ela existe.
-
-> 🗣️ **Frase-mãe:** _"Não é uma meta de vendas. É uma contagem regressiva para a liberdade de 100 mil famílias."_
+A missão é 100 mil famílias comprando o primeiro imóvel. Contrato fechado é um marco de entrada, não prova de aquisição. Critérios, fontes, deduplicação e estados de implantação vivem exclusivamente em [ops/placar.md](ops/placar.md). Celebrar cada avanço com o nome correto e evidência correspondente.
 
 ---
 
@@ -440,7 +406,7 @@ graph TD
 |--------|---------|--------|----------------|------------|
 | Topo | Conteúdo gratuito | ATIVO | Atrai, educa, cria tribo | "Segue o movimento" |
 | Entrada | Webinar / Código 31 | ATIVO | Converte espectador em lead com ritual | "Entra no Código 31" |
-| Núcleo | Comunidade dos Donos | ATIVO (Cademi) | Pertencimento e retenção | "Vira Dono de verdade" |
+| Núcleo | Comunidade dos Donos | ATIVO (Cademi) | Pertencimento e retenção | "Conheça a Comunidade dos Donos" |
 | Ferramenta | Arremata.AI | ATIVO (SaaS) | Inteligência de leilão (produto e ferramenta interna) | "Usa a alavanca" |
 | Topo da escada | Consultoria 10X | ATIVO | Estratégia de patrimônio de alto valor | "Joga o jogo 10X" |
 
@@ -502,7 +468,7 @@ A ferida do líder convertida em missão (Story of Self, Marshall Ganz). **Escri
 > 🗣️ _"Eles vão atacar. A gente não grita de volta — a gente mostra a conta."_
 
 ### 🔔 Peça 13 — A Liturgia Permanente · [completo →](doutrina/13-a-liturgia-permanente.md)
-Código 31 é o batismo; falta a missa de domingo. O **Loop do Dono** (gatilho → ação → recompensa variável → investimento) e o **Calendário Sagrado** em 4 ritmos: o Gesto diário, a Missa semanal (Live + Célula), o Marco mensal (C31 + placar), a Peregrinação anual. Mais os feriados próprios do movimento. Retenção é problema de ritmo, não de convencimento.
+Código 31 é o evento de entrada; a continuidade vem dos encontros e ações da comunidade. O **Loop do Dono** (gatilho → ação → recompensa variável → investimento) e o **Calendário Sagrado** em 4 ritmos: o Gesto diário, a Missa semanal (Live + Célula), o Marco mensal (C31 + placar), a Peregrinação anual. Mais os feriados próprios do movimento. Retenção é problema de ritmo, não de convencimento.
 > 🗣️ _"A gente não te dá um evento — a gente te dá um ritmo."_
 
 ### 🏅 Peça 14 — Os Fundadores · [completo →](doutrina/14-os-fundadores.md)
@@ -529,22 +495,22 @@ A língua (Peça 03) é invisível; falta a bandeira. Os 4 elementos visuais: o 
 | Editar video longo | Carla (IA) + editor externo | Video editado + thumbnail |
 | Cortar reels/clips | Clipadores externos | 3-5 cortes por video longo |
 | Aprovar cortes e legendas | Anthony | Aprovacao no WA (OK ou ajuste) |
-| Publicar + agendar | Ralph | Postar no IG/YT + agendar horario |
+| Publicar + agendar | Felipe Clavijo (Head de Growth) | Postar no IG/YT + agendar horario |
 | Copywriting (caption, hook) | Carla (IA) | Caption pronta com CTA unico |
 | Rotacao semanal (Seg-Dom) | Carla | Pauta semanal entregue domingo |
 
-**Workflow:** Anthony grava (Seg/Sex) → Carla edita + clipadores cortam (48h) → Anthony aprova (WA) → Ralph publica.
+**Workflow:** Anthony grava (Seg/Sex) → Carla edita + clipadores cortam (48h) → Anthony aprova (WA) → Felipe Clavijo (Head de Growth) publica.
 
 ### Peca 05 — Midia e PR
 
 | Etapa | Responsavel | Entrega |
 |-------|-------------|---------|
-| Prospectar podcasts/midia | Ralph | Lista mensal de oportunidades |
-| Agendar participacao | Ralph | Data confirmada no calendario Anthony |
+| Prospectar podcasts/midia | Felipe Clavijo (Head de Growth) | Lista mensal de oportunidades |
+| Agendar participacao | Felipe Clavijo (Head de Growth) | Data confirmada no calendario Anthony |
 | Preparar briefing pre-aparicao | Carla | 1 pagina: 3 ancoras + dados + case |
 | Gravar/participar | Anthony | Aparicao feita |
 | Extrair cortes da aparicao | Clipadores | 5-10 cortes por podcast longo |
-| Distribuir cortes | Ralph | Publicado em todos os canais |
+| Distribuir cortes | Felipe Clavijo (Head de Growth) | Publicado em todos os canais |
 
 **Regra:** nenhuma aparicao de midia acontece sem briefing da Carla entregue 24h antes.
 
@@ -554,7 +520,7 @@ A língua (Peça 03) é invisível; falta a bandeira. Os 4 elementos visuais: o 
 |-------|-------------|---------|
 | Curadoria de vitorias (contemplacao, escritura) | Kamila (CS) | Case identificado e encaminhado |
 | Produzir post/story de reconhecimento | Carla + clipadores | Peça pronta pro feed |
-| Publicar reconhecimento | Ralph | Postado + marcacao do Dono |
+| Publicar reconhecimento | Felipe Clavijo (Head de Growth) | Postado + marcacao do Dono |
 | Animar comunidade Cademi | Edwards | Interacao semanal, desafios, destaques |
 | Programa de indicacao (Dono traz Dono) | Carla (estrutura) + Edwards (execucao) | Mecanismo ativo com tracking |
 
@@ -562,16 +528,16 @@ A língua (Peça 03) é invisível; falta a bandeira. Os 4 elementos visuais: o 
 
 | Etapa | Responsavel | Entrega |
 |-------|-------------|---------|
-| Contagem automatica (deal ganho Bitrix) | Neriton (webhook) | Placar atualizado em tempo real |
-| Publicacao do marco (a cada 100 familias) | Carla + Ralph | Post comemorativo |
+| Validação e atualização do placar | Nériton + CS/Financeiro | Aplicar [critérios do placar](ops/placar.md); automação ainda exige prova |
+| Publicação de marco validado (indicador e unidade do placar) | Carla + Felipe Clavijo (Head de Growth) | Post comemorativo |
 | Auditoria trimestral | Edwards + Midiane | Cruzamento placar vs contratos |
-| Exibicao no site/perfil | Ralph | Numero visivel e atualizado |
+| Exibicao no site/perfil | Felipe Clavijo (Head de Growth) | Numero visivel e atualizado |
 
 ### Peca 08 — Funil
 
 | Degrau | Dono operacional | Entrega |
 |--------|------------------|---------|
-| Conteudo gratuito (topo) | Ralph + Carla | Publicacao constante 80/15/5 |
+| Conteudo gratuito (topo) | Felipe Clavijo (Head de Growth) + Carla | Publicacao constante 80/15/5 |
 | Codigo 31 (entrada) | Anthony + Neriton | Evento mensal executado (skill codigo31) |
 | Comunidade dos Donos (nucleo) | Edwards + Kamila | Engajamento ativo na Cademi |
 | Arremata.AI (ferramenta) | Neriton | SaaS funcionando, onboarding |

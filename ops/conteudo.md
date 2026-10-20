@@ -1,5 +1,7 @@
 # Conteudo — Operacional
 
+Última atualização editorial: 20/10/2026.
+
 ## Protocolo 80 / 15 / 5
 
 - **80% Educacao:** matematica, sistema exposto, indignacao lucida
@@ -48,7 +50,7 @@ Carla edita + clipadores cortam (48h)
 Anthony aprova (WA — OK ou ajuste)
     |
     v
-Ralph publica (IG/YT + horario agendado)
+Felipe Clavijo (Head de Growth) publica (IG/YT + horario agendado)
 ```
 
 ## Responsaveis
@@ -59,7 +61,7 @@ Ralph publica (IG/YT + horario agendado)
 | Editar video longo | Carla + editor externo |
 | Cortar reels/clips | Clipadores externos |
 | Aprovar cortes e legendas | Anthony |
-| Publicar + agendar | Ralph |
+| Publicar + agendar | Felipe Clavijo (Head de Growth) |
 | Copywriting (caption, hook) | Carla |
 | Pauta semanal (rotacao) | Carla (entregue domingo) |
 

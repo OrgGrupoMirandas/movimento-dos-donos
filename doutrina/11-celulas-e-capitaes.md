@@ -6,6 +6,8 @@
 
 ---
 
+> Atualização 20/10/2026: estrutura prevista; células ativas, facilitadores e cadência dependem de evidência. Aplicação inicial em [Reconhecimento e comunidade](../ops/reconhecimento.md).
+
 ## O teto que o playbook não viu
 
 A Peça 06 (Reconhecimento) diz a coisa certa: _"Dono traz Dono"_, conexão horizontal, tribo que cria tribos. Mas para por aí — no **princípio**. Não tem a **estrutura**.
@@ -42,7 +44,7 @@ graph TD
 | 👑 **Líder** | Anthony | A nação inteira | Dá a Voz, a doutrina, a Origem. Forma Capitães. |
 | 🛡️ **Capitão** | Dono que provou e quis liderar | ~12 Donos (1 Célula) | Reúne a célula, anima, multiplica. O músculo do movimento. |
 | 🔥 **Célula** | Grupo de ~12 Donos | — | O lar. Onde o Dono não se sente número, se sente irmão. |
-| 👤 **Dono** | Toda família que fechou | — | A base e o propósito. Candidato natural a futuro Capitão. |
+| 👤 **Dono** | Participante comprometido com os valores do movimento | — | A base e o propósito. Candidato natural a futuro Capitão. |
 
 ### Por que 12
 
@@ -77,8 +79,8 @@ A matemática brutal: 17 divisões celulares partindo de 1 célula passam de 100
 
 Não se candidata: é **ungido**. Critério, nesta ordem:
 
-1. **É Dono de verdade** — fechou, está no jogo, vive o que prega. Não existe Capitão que não pagou o próprio preço.
-2. **Já trouxe outro Dono** — provou que multiplica antes de receber o título. O título reconhece o que a pessoa já faz, não o que promete fazer.
+1. **Participa e serve** — demonstra responsabilidade, escuta e compromisso. Compra de produto ou consórcio não é requisito de liderança.
+2. **Já ajudou outro membro** — há evidência de contribuição útil. Indicação comercial ou volume de vendas não é critério de liderança.
 3. **Vive a frieza + indignação** — encarna o tom. Não é o mais barulhento; é o mais firme.
 4. **Serve, não manda** — quer carregar os outros, não ser admirado por eles. (Mesma Lei Anti-Ídolo da Peça 09, agora em escala: Capitão que vira ego é câncer de célula.)
 
