@@ -139,9 +139,75 @@ A oferta tem espaço claro. A cultura também precisa continuar entre eventos. S
 8. **A missão pode se perder na profissionalização.** A rede de operadores deve aumentar a capacidade de atender famílias. Formar e recrutar pessoas só para vender formações umas às outras não cumpre esse objetivo. A família que busca apenas sua casa continua sendo público central.
 9. **Patrimônio bruto e crédito vendido podem esconder fragilidade.** A conquista deve vir acompanhada de obrigações e uso do ativo, quando aplicável. A conta do Grupo separa receita educacional, assinatura e comissão efetivamente recebida, com custos e PJs próprios.
 
+## Joel Jota e literatura — o que aproveitar e o que testar
+
+### As 12 teses do Reel
+
+Síntese da transcrição integral do [Reel de Joel Jota](https://www.instagram.com/reel/DerttegRNPk/): (1) pertencimento com valor econômico; (2) comunidade como ativo; (3) jornada coletiva de comportamento; (4) funcionamento sem o fundador; (5) vínculos de qualidade; (6) símbolos, rotinas e ritos; (7) vantagem competitiva; (8) negócios entre membros; (9) continuidade do membro; (10) força coletiva observável; (11) sistema de aquisição, retenção, renovação e rentabilidade; (12) formação de líderes para microcomunidades. O ciclo é inspirar, motivar, praticar, transformar e retornar. “Sempre mais barato” não vem acompanhado de cálculo; servir 10:1 é metáfora, não garantia financeira. Primal Branding é o único livro nomeado; Maxwell aparece genericamente. Davi Ribas e 10x não são citados. Um trecho sobre o primeiro dever do líder está corrompido na transcrição; não reconstruímos sua frase.
+
+### O cruzamento com as fontes
+
+A matriz separa contribuição conceitual, aplicação proposta e limite da evidência. Concordância entre autores não demonstra que o Movimento já produz esses efeitos.
+
+| Fonte e leitura | Tese útil | Aplicação proposta e limite |
+|---|---|---|
+| [Patrick Hanlon, artigo de 03/02/2025](https://andsimple.co/insights/primal-branding-family-offices) | Origem, crença, símbolos, ritos, linguagem, não crentes e liderança organizam pertencimento. | O acervo já contém essas peças: origem, missão, ícones propostos, C31, vocabulário e capitães. Reforçar coerência; “não crentes” não obriga inventar inimigo externo. É um modelo autoral aplicado a outro contexto, não lei empírica de escala. |
+| [Seth Godin, The tribe or the person?](https://seths.blog/2013/12/the-herd/) e [Q&A de 02/09/2013](https://seths.blog/2013/09/page/5/) | Conversa entre pares diferencia mudança cultural de transações individuais; o desenho parte da experiência desejada pelos membros. | Escolher problema comum e facilitar troca útil, em vez de organizar tudo pelo próximo produto a vender. São textos autorais, não experimento de conversão. Não atribuímos a Godin textos coletivos apenas prefaciados por ele. |
+| [Muñiz e O’Guinn, 2001 — resumo do artigo](https://ideas.repec.org/a/oup/jconrs/v27y2001i4p412-32.html), DOI 10.1086/319618 | Consciência comum, rituais/tradições e responsabilidade mútua caracterizam comunidades de marca estudadas. | Observar se membros se reconhecem, mantêm práticas e assumem ajuda concreta. Estudo qualitativo de três marcas; ter nome e rito não certifica comunidade nem prevê nosso resultado. |
+| [Schau, Muñiz e Arnould, 2009 — resumo institucional](https://researchportal.bath.ac.uk/en/publications/how-brand-community-practices-create-value/), [DOI 10.1509/jmkg.73.5.30](https://doi.org/10.1509/jmkg.73.5.30) | Nove comunidades revelaram 12 práticas de criação de valor, incluindo acolher, ajudar e registrar marcos. | Tornar essas ações visíveis na experiência existente e confirmar utilidade com quem recebeu ajuda. O estudo não garante efeito causal de cada prática sobre receita ou retenção. |
+| [Wenger-Trayner — trechos da introdução](https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf) | Domínio, relações e prática compartilhada sustentam aprendizagem coletiva; discordância pode ser produtiva. | Microcomunidades por problema ou etapa podem aprofundar prática sob identidade comum. Canal cheio e acervo extenso, isoladamente, não demonstram aprendizagem ou responsabilidade compartilhada. |
+| [Adner, 2017](https://doi.org/10.1177/0149206316678451) e [introdução de 2021](https://ronadner.com/winning-the-right-game-introduction/) | Ecossistema exige alinhar atividades, atores, posições e transferências em torno de valor para alguém. | Começar pelo benefício à família e conferir cada passagem. Arquitetura de entrega é diferente do modelo que captura receita. São bases conceituais; uma lista de marcas não prova alinhamento operacional. |
+| [Jacobides, Cennamo e Gawer, 2018](https://doi.org/10.1002/smj.2904), [texto integral consultado](https://iris.unibocconi.it/retrieve/handle/11565/4013728/90809/SMJ_Ecosystem%20Theory.pdf) | Complementaridades específicas entre atores autônomos dependem de interfaces e regras. | Formação Arrematador Profissional e ferramenta Arremata.ai podem se complementar; explicitar tarefa, acesso e responsabilidade. Essa hipótese não prova efeito de rede, integração atual ou valor adicional de cada membro. |
+| [Davi Ribas — apresentação de Marketing Ideológico](https://www.editoragente.com.br/marketing-ideologico/p) | Propósito, posicionamento e conexão com o público orientam a marca. | Preservar missão e identidade sem obrigar guerra ou crença religiosa. Consulta à apresentação da editora, não leitura integral nem comprovação de eficácia local. |
+| [Sullivan e Hardy — apresentação de 10x Is Easier Than 2x](https://www.penguinrandomhouse.com/books/710816/10x-is-easier-than-2x-by-dan-sullivan-founder-of-strategic-coach-with-dr-benjamin-hardy/9781401969950/) | Foco e mudança de abordagem podem substituir dispersão de esforço. | Escolher poucas passagens de alto valor e reduzir dependência do CEO. Apresentação oficial, não leitura integral. Não sustenta multiplicar ofertas ou prometer retorno 10x. |
+
+### Uma identidade, espaços de prática diferentes
+
+A conclusão é favorável à direção, com uma correção: **uma Comunidade significa identidade central, não um único grupo falando de tudo**. As [células e capitães já previstos](11-celulas-e-capitaes.md) permitem espaços menores por prática ou etapa. A abertura depende de demanda recorrente, propósito compreensível, facilitador capaz e tempo disponível; não precisa acompanhar automaticamente cada produto, ticket ou profissão.
+
+Uma pessoa preparando moradia pode precisar revisar orçamento; outra com imóvel parado precisa trabalhar operação. Colocá-las na mesma transmissão pode inspirar ambas. Dar continuidade útil pode exigir conversas diferentes. Os aprendizados podem retornar à casa comum em casos autorizados, evitando tanto grupos vazios quanto um canal tão genérico que ninguém encontra ajuda.
+
+A pergunta de desenho é: **qual tarefa essas pessoas conseguirão fazer melhor juntas?** Se o benefício não está claro, manter a orientação nos canais existentes. Se há recorrência e capacidade, testar um espaço delimitado antes de multiplicar células. Acesso continua conforme o contratado; nenhum agrupamento presume benefício novo.
+
+### Do repertório ao ciclo de valor
+
+Proponho ligar as frentes pela sequência **necessidade da família → orientação → tarefa → revisão → decisão → caso registrado → ajuda a outra pessoa**. “Revisão” pode ser conferência educativa compatível com o papel de quem ajuda; parecer, serviço técnico e atendimento profissional exigem competência e contratação próprias. Conexões e abordagem comercial dependem de consentimento.
+
+Em cada passagem, definir quem recebe, qual entrega será feita e o critério para considerar concluída. Um material enviado não equivale a acesso encontrado; acesso não equivale a tarefa executada; tarefa não equivale a decisão adequada. Uma pendência precisa de retorno identificado, sem virar encaminhamento interminável ou resgate automático de Anthony.
+
+O ciclo de Joel ajuda a dar ritmo: caso inspira; objetivo escolhido mobiliza; tarefa exercita; mudança observada ensina; experiência retorna para ajudar. A transformação pode ser compreender um risco ou recusar uma compra. O conteúdo gera repertório, a interação ajuda a aplicá-lo e o registro permite aprender com o que realmente aconteceu.
+
+A economia deve acompanhar a entrega: tempo de facilitação, revisão, suporte e CEO; custos efetivos; margem e recebimentos separados por produto/PJ. Medir tarefa concluída, ajuda confirmada, retorno voluntário e pendências. Quatro semanas podem revelar utilidade e esforço; não provam aumento de LTV ou rentabilidade duradoura. Se crescer apenas a venda seguinte, teremos evidência de portfólio comercial, sem comprovar comunidade de prática ou efeito de rede.
+
+## Flávio Augusto e Pablo Marçal — mecanismos observáveis, conclusões delimitadas
+
+### Flávio: operação anterior à comunidade
+
+A Wise Up nasceu em 1995, segundo seu estudo oficial. O conteúdo do Geração de Valor nas redes começou em 2011, quando Flávio já tinha construído o negócio; posteriormente, o meuSucesso reuniu aulas, eventos e rede de assinantes, conforme o mesmo FAQ. A sequência importa: não foi a comunidade que originou a operação de escolas. [Estudo Wise Up](https://meusucesso.com/lp/wiseup/), [FAQ do próprio Flávio](https://blog.geracaodevalor.com/respostas-todas-suas-duvida-sobre-o-gv/).
+
+Há resultado empresarial além da audiência: a Reuters registrou a venda de 100% da Ometz em 2013 por R$877 milhões. A recompra posterior envolveu a GWUP; os preços não permitem apurar lucro pessoal pela subtração. A Forbes estimou sua fortuna em R$1,30 bilhão **de reais**, na lista de 2021; não é estimativa atual nem em dólares. [Reuters, 16/12/2015](https://www.infomoney.com.br/mercados/fundador-da-wise-up-recompra-rede-de-escolas-por-r-398-milhoes/), [Forbes, 2021](https://forbes.com.br/forbes-money/2021/09/veja-a-lista-completa-dos-bilionarios-brasileiros-de-2021/).
+
+Hoje, o Wiser Empreende publica formação gratuita, possibilidade de atuação comissionada e evolução para franquia. Isso demonstra uma oferta de formação/distribuição, sem comprovar resultados individuais ou que todos chegarão à franquia. [Página do programa](https://wisereducacao.com/wiser-empreende/).
+
+**Nossa inferência para o Grupo:** operação real pode sustentar autoridade; distribuição e formação de operadores podem permitir replicação. Para Arrematador Profissional e Vendedor de Elite, a pergunta é qual competência e entrega conseguimos repetir com qualidade, antes de ampliar captação. É uma hipótese de transferência, não receita causal demonstrada pelo caso.
+
+### Marçal: ritual e camadas de entrega
+
+A página histórica de 2021 do Clube 459 combina um ritual de despertar antes do sol com assinatura, acervo, lives e descontos em outros produtos. Mostra identidade e recorrência organizadas; não comprova retenção, rentabilidade ou preço vigente. [Página histórica do Clube 459](https://hl.pablomarcal.com.br/clube-459/).
+
+A página SPR acessível em 20/10/2026 anuncia seis meses e 34 encontros, incluindo 12 aulas com o fundador e 12 plantões de Treinadores de Execução, além de mentorias. É promessa publicada, não auditoria de entrega ou evidência de crescimento causado pelo programa; preço e condições atuais não foram confirmados. [Página SPR](https://qbc.quizpablomarcal.com.br/spr1/).
+
+O rótulo de bilionário não foi comprovado: reportagem de 18/08/2026 registra retificação do patrimônio declarado de R$7,4 bilhões para R$149,9 milhões. Declaração patrimonial não equivale a avaliação de mercado. Esse número não demonstra eficácia de comunidade ou formação. [InfoMoney, 18/08/2026](https://www.infomoney.com.br/politica/marcal-corrige-declaracao-ao-tse-e-patrimonio-cai-de-r-74-bi-para-r-1499-mi/).
+
+**Nossa inferência:** aproveitar a clareza entre conteúdo, identidade e acompanhamento, com responsáveis e entregas distintos. Para o Movimento, Conta do Dono e C31 já fornecem ritmo; a Comunidade precisa ligar esse ritmo à aplicação. Não copiar horário de despertar nem culpabilizar quem compra, não compra ou escolhe outro caminho.
+
+### O que combinar
+
+De Joel, serviço, autonomia e retorno da experiência dos membros. De Flávio, operação e distribuição replicáveis. De Marçal, ritual e camadas explícitas de entrega. A combinação é recomendação nossa: **um caso ajuda uma família, a prática produz competência e a experiência volta para ajudar outra**. Sua validade depende do que o Grupo entregar e medir, sem atribuir aos casos uma fórmula comprovada para nosso resultado.
+
 ## A menor aplicação útil
 
-Recomendo **uma Comunidade dos Donos contínua, com caminhos por objetivo**, sem novos nomes, grupos ou eventos. O Movimento é a causa; a Comunidade é a casa de conhecimento, relações e aplicação. DAP traz público frio; a Conta do Dono já dá o ritmo público semanal de demonstração prática e aquisição, fazendo a ponte para a Comunidade. Entre eventos, membros aplicam uma ação, recebem o acompanhamento previsto e ajudam outras pessoas. C31 intensifica cultura, casos e reconhecimento nas suas edições. Arrematador Profissional e Vendedor de Elite permanecem trilhas profissionais voluntárias; Arremata.ai serve como ferramenta transversal.
+Recomendo **uma Comunidade dos Donos contínua, com identidade comum e caminhos por objetivo**, começando nos canais e eventos existentes. Microcomunidades/células por prática ou etapa podem surgir quando houver demanda e facilitador, sem lançar marca ou grupo obrigatório para cada produto. O Movimento é a causa; a Comunidade é a casa de conhecimento, relações e aplicação. DAP traz público frio; a Conta do Dono já dá o ritmo público semanal de demonstração prática e aquisição, fazendo a ponte para a Comunidade. Entre eventos, membros aplicam uma ação, recebem o acompanhamento previsto e ajudam outras pessoas. C31 intensifica cultura, casos e reconhecimento nas suas edições. Arrematador Profissional e Vendedor de Elite permanecem trilhas profissionais voluntárias; Arremata.ai serve como ferramenta transversal.
 
 No calendário aprovado até 10/12/2026, a Conta ocorre às quintas, 20h BRT. C31 substitui a Conta nas semanas próprias, em **um evento de dois dias por edição**, 29–30/10 e 26–27/11; não acrescentar live. A modalidade de 05/11 estava pendente no registro do calendário. O primeiro teste recomendado é de aplicação e ajuda dentro da Comunidade existente, medindo **prática, retorno e ajuda útil**, além de compra.
 
@@ -150,7 +216,7 @@ Escolher um problema recorrente — por exemplo, organizar a decisão de compra 
 Durante quatro semanas propostas:
 
 - Cada participante escolhe uma tarefa concreta e recebe indicação do material existente.
-- Casos selecionados entram em encontro já previsto; experiências de membros complementam o conteúdo.
+- Casos selecionados entram em encontro já previsto; experiências de membros complementam o conteúdo. Observar quais problemas recorrentes poderiam justificar uma futura célula de prática, sem abri-la automaticamente.
 - Conexões são manuais, consentidas e ligadas à necessidade. Serviços não são vendidos como benefícios implícitos.
 - O operador confirma aplicação, ajuda recebida, dificuldades e próximo passo. Participação silenciosa pode gerar evidência privada de progresso.
 - O fechamento registra o que foi resolvido, o que ficou pendente e quanto trabalho exigiu. Um caso positivo ensina; não comprova escala.
@@ -175,9 +241,7 @@ O relatório Growth anterior confirmou atenção e vendas em eventos; não confi
 
 ## Fundamentos e fontes
 
-O modelo de comunidades de prática de Wenger-Trayner distingue domínio comum, relações e prática compartilhada. Ele ajuda a avaliar por que um acervo, sozinho, não demonstra uma comunidade funcionando. A aplicação ao Movimento é uma hipótese de desenho, não prova de que retenção ou receita aumentarão. [Introdução dos autores](https://www.wenger-trayner.com/wp-content/uploads/2022/01/07-Brief-introduction-to-communities-of-practice.pdf).
-
-Sullivan e Waller descrevem desenvolvimento de competências e trabalho complementar para reduzir a dependência do fundador. Aqui isso fundamenta investigar quem consegue conduzir cada entrega; não transforma voluntários em equipe disponível nem prova crescimento 10X. [Conversa dos autores, 02/04/2024](https://www.strategiccoach.com/resources/podcasts/inside-strategic-coach/131869277). Os livros citados anteriormente continuam parcialmente consultados, não integralmente lidos.
+O cruzamento com literatura está na seção anterior, com escopo de leitura, aplicação e limites por fonte. Livros parcialmente consultados não são tratados como leitura integral.
 
 Fontes internas consultadas em 20/10; documentos e relatos não equivalem a auditoria de todos os clientes ou sistemas:
 
