@@ -21,7 +21,7 @@ Revisão: 20/10/2026. A arquitetura reúne história, cultura, participação e 
 
 **Honrar a verdade:** proposta, operação, promessa contratual e resultado têm estados diferentes. Fundadores, células, ritos e símbolos permanecem na arquitetura; cada implantação precisa de responsáveis e evidência.
 
-A missão é 100 mil famílias comprando o primeiro imóvel. C31 é cultura e evento; DAP, Comunidade, 10X, Arremata e Vendedor de Elite compõem um ecossistema de funções diferentes. Ninguém precisa percorrer todos os produtos. O [documento-mãe](../README.md) organiza a identidade; [funil](../ops/funil.md), [reconhecimento](../ops/reconhecimento.md) e [placar](../ops/placar.md) orientam sua aplicação.
+A missão é 100 mil famílias comprando o primeiro imóvel. C31 é cultura e evento; DAP, Comunidade, 10X, Arremata.ai, Arrematador Profissional e Vendedor de Elite compõem um ecossistema de funções diferentes. Ninguém precisa percorrer todos os produtos. O [documento-mãe](../README.md) organiza a identidade; [funil](../ops/funil.md), [reconhecimento](../ops/reconhecimento.md) e [placar](../ops/placar.md) orientam sua aplicação.
 
 ## Cruzamento editorial — 20/10/2026
 

@@ -13,11 +13,12 @@ Registrar objetivo patrimonial, etapa e, se houver, interesse voluntário em ati
 | Conteúdo gratuito | Identificação, explicação e orientação | Recurso anunciado ou entrada existente coerente com a dúvida |
 | DAP — Do Zero ao Patrimônio | Low ticket de aquisição de público frio e aprendizagem paga | Aplicar conteúdo; aprofundar ou pedir atendimento se pertinente |
 | Código 31 | Cultura e evento: missão, casos, aprendizado, reconhecimento e oferta | Ação prática, continuidade contratada ou decisão sobre oferta da edição |
-| Conta do Dono | Demonstração e plano inicial individual prometido | Entregar plano mesmo sem compra; proposta apenas se adequada |
-| Comunidade dos Donos | Acervo amplo, aulas, casos, base de conhecimento e interação coletiva | Concluir tarefa, esclarecer dúvida, ajudar e aprofundar dentro do acesso contratado |
+| Conta do Dono | Evento semanal de demonstração prática e aquisição, com ponte para a Comunidade e plano inicial individual prometido | Entregar plano mesmo sem compra; proposta apenas se adequada |
+| Comunidade dos Donos | Casa contínua: acervo amplo, aulas, casos, base de conhecimento e interação coletiva | Concluir tarefa, esclarecer dúvida, ajudar e aprofundar dentro do acesso contratado |
 | Mentoria 10X | Fronteira atual por esclarecer | Conferir promessa, contrato, responsável e cadência antes de tratá-la como produto distinto |
 | Consultoria 10X | Diagnóstico, plano e apoio individual/prático conforme contrato | Decisões e execução assistida no escopo; cliente conserva responsabilidades e custos |
-| Arremata.ai | Busca, análise, gestão, academia e serviços existentes | Usar recurso adequado à tarefa; não presumir supervisão ou habilitação profissional |
+| Arremata.ai | Ferramenta transversal de busca, análise e gestão | Usar recurso adequado à tarefa; tutorial de software não comprova formação profissional |
+| Arrematador Profissional | Formação existente, conforme definição do CEO | Escopo, preço e entrega ainda não verificados; não inventar módulos ou supervisão |
 | Vendedor de Elite / representantes | Formação comercial e canal voluntário | Iniciante aprende; profissional apto segue onboarding, contrato, rota e acessos aplicáveis |
 | Consórcio | Ferramenta de aquisição possível | Avaliar adequação, contratar se pertinente e seguir pós-venda específico |
 
@@ -31,6 +32,8 @@ O contrato-modelo da Consultoria descreve seis meses, duas reuniões com Anthony
 - Interessado em atuação profissional escolhe formação e verifica requisitos. Comprar para si não o torna assessor; ser capitão não o torna representante.
 - Pessoa com pedido comercial direto pode ser atendida sem passar por curso ou duas edições de evento.
 
+A Conta do Dono ocupa o ritmo público semanal existente. C31 a substitui nas semanas próprias, em uma edição de dois dias; não somar uma nova live. A aplicação na Comunidade acontece entre os eventos, dentro da entrega e capacidade combinadas.
+
 ## Preservar a promessa de ponta a ponta
 
 Objetivo → entrada anunciada → compra/inscrição quando aplicável → acesso e entrega → compreensão → próximo passo pertinente. Uma nova oferta não apaga plano, aula ou suporte já prometidos.
@@ -39,7 +42,7 @@ Na Black, a direção de 19/10 é testar em 22/10 uma oferta principal de Comuni
 
 ## Encaminhamento e governança
 
-Felipe responde por Growth; Adrian pelo Comercial Yes; Nériton por Sistemas. Produto e CS respondem pela entrega contratada. Tadeu conduz o canal de representantes no escopo vigente; formação geral de iniciantes exige capacidade própria. Operação e pedagogia do Arremata seguem os responsáveis do produto, sem atribuição automática a Sistemas. Facilitação comunitária e supervisão profissional nova exigem dono e capacidade confirmados; não presumir Edwards operador diário nem Kamila facilitadora geral.
+Felipe responde por Growth; Adrian pelo Comercial Yes; Nériton por Sistemas. Produto e CS respondem pela entrega contratada. Tadeu conduz o canal de representantes no escopo vigente; formação geral de iniciantes exige capacidade própria. Operação do Arremata segue os responsáveis da ferramenta. A formação Arrematador Profissional tem escopo e responsáveis a conferir; não atribuir sua pedagogia automaticamente a Sistemas. Facilitação comunitária e supervisão profissional nova exigem dono e capacidade confirmados; não presumir Edwards operador diário nem Kamila facilitadora geral.
 
 Novos leads comerciais passam primeiro pela Julia. Quando já existe atendimento humano ativo, preservar oportunidade, responsável, etapa e histórico. Vincular por telefone normalizado, guardar origem e assistências e não contar a mesma contratação como nova venda de cada canal.
 

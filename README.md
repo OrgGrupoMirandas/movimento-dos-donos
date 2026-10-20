@@ -73,14 +73,17 @@ Os nomes existentes permanecem. Não há uma escada obrigatória de compras.
 | Frente | Papel | Limite que orienta a comunicação |
 |---|---|---|
 | **Do Zero ao Patrimônio — DAP** | Low ticket de aquisição de público frio, com entrega educacional própria | Entregar o curso; compra não prova intenção de contratar consórcio |
-| **Comunidade dos Donos** | Conteúdo amplo, aulas, base de conhecimento, casos e interação coletiva | “Tudo” precisa corresponder ao acesso contratado; não presume serviços e ferramentas ilimitados |
+| **Comunidade dos Donos** | Casa contínua do movimento: conteúdo amplo, aulas, base de conhecimento, casos e interação coletiva | “Tudo” precisa corresponder ao acesso contratado; não presume serviços e ferramentas ilimitados |
 | **Código 31** | Cultura **e** evento: missão, encontro, casos, aprendizado, reconhecimento e oferta | Edição tem condições e entregas próprias; não significa acompanhamento de 31 dias |
-| **Conta do Dono** | Outro evento: demonstração da conta e plano inicial individual prometido | Preservar o plano mesmo sem compra; não usar como sinônimo de C31 |
+| **Conta do Dono** | Evento semanal de demonstração prática e aquisição, com ponte para a Comunidade e plano inicial individual prometido | Preservar o plano mesmo sem compra; não usar como sinônimo de C31 |
 | **Mentoria 10X** | Nome presente no histórico e na comunicação | Fronteira atual com a Consultoria ainda incerta; não inventar entrega autônoma ou ausência de Anthony |
 | **Consultoria 10X** | Diagnóstico e plano individual, reuniões e apoio prático conforme contrato | Modelo descreve seis meses, duas reuniões Anthony, plano, duas Edwards e WhatsApp; não execução integral pelo time |
-| **Arremata.ai** | Ferramenta, formação e recursos para buscar, avaliar e operar oportunidades | Academia e serviços já existem; formação profissional supervisionada requer capacidade própria |
+| **Arremata.ai** | Ferramenta transversal para buscar, avaliar e acompanhar oportunidades | Tutoriais ensinam o software; não comprovam catálogo ou entrega de uma formação profissional |
+| **Arrematador Profissional** | Formação existente, distinta da ferramenta, conforme definição do CEO | Escopo, preço, formato e entrega não foram verificados nesta revisão |
 | **Vendedor de Elite / canal de representantes** | Formação comercial e caminho voluntário de atuação | Formação não é credenciamento; iniciante e profissional já operador têm necessidades diferentes |
 | **Consórcio** | Uma ferramenta possível de aquisição | Adequação, custos, prazos e obrigações próprios; não é condição de pertencimento |
+
+A Conta do Dono já fornece o ritmo público semanal; nas semanas próprias, o C31 a substitui como um evento de dois dias por edição. Não há live adicional. A recomendação é uma Comunidade contínua, com caminhos por objetivo e aplicação entre eventos; Arrematador Profissional e Vendedor de Elite são trilhas profissionais voluntárias.
 
 A análise de valor, sobreposições, oportunidades e fontes está na [Peça 16 — Ecossistema e proposta de valor](doutrina/16-ecossistema-e-proposta-de-valor.md). Rotas e entregas ficam em [ops/funil.md](ops/funil.md).
 
@@ -168,7 +171,7 @@ Fontes: [DAP](https://github.com/OrgGrupoMirandas/playbook-growth/tree/main/01-p
 | Entrega e suporte pós-venda | Responsável do produto; Kamila/CS somente no escopo contratado |
 | Consultoria e apoio técnico | Anthony, Edwards e equipes conforme contrato; sem presumir operação diária da Comunidade pelo COO |
 | Canal de representantes | Tadeu, conforme rota e escopo vigentes; sem presumir formação geral de iniciantes já atribuída |
-| Produto Arremata | Responsáveis e capacidade do produto; Sistemas não equivale automaticamente a operação pedagógica |
+| Produto Arremata | Responsáveis e capacidade do produto; a ferramenta não se confunde com a formação Arrematador Profissional |
 | Facilitação comunitária e formação prática nova | Responsável e capacidade a confirmar antes de oferecer |
 
 Novos leads comerciais entram pela Julia. Atendimento humano ativo preserva a mesma oportunidade, responsável e etapa; uma nova entrada não reinicia a relação.

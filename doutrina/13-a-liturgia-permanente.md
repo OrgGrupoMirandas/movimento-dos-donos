@@ -22,7 +22,7 @@ O objetivo é utilidade e autonomia. Não criar dependência de resposta do CEO,
 | Ritmo | Ideia preservada | Aplicação e limite |
 |---|---|---|
 | Diário — O Gesto | Pequena lembrança do compromisso | Pergunta ou ação individual opcional; não nova publicação obrigatória |
-| Semanal — O Encontro | Troca e acompanhamento de ações | Reaproveitar atividade existente, com facilitador e capacidade confirmados |
+| Semanal — O Encontro | Conta do Dono como ritmo público existente; aplicação na Comunidade entre eventos | Preservar calendário aprovado e entregas; facilitação adicional depende de capacidade |
 | Mensal — O Marco | Reconhecimento e cultura compartilhada | C31 quando houver edição, casos e placar validado; não presume live mensal contratada |
 | Anual — A Peregrinação | Encontro e memória coletiva | Conceito de evento futuro, sem data, ingresso, benefício ou agenda prometidos |
 
@@ -32,7 +32,7 @@ A “Live dos Donos”, os ritos de células e o encontro anual existiam como ar
 
 O C31 pode dar forma ao compromisso: missão, caso comprovado, aprendizado inclusive com erro ou decisão de não compra, reconhecimento de ajuda e convite ao próximo passo. A oferta tem lugar identificável e condições da edição. A sequência é proposta cultural; não muda tempo de palco ou entrega já anunciada.
 
-Código 31 não significa acompanhamento de 31 dias. Conta do Dono é outro evento e preserva sua promessa de plano individual. A continuidade educativa e o suporte de produto seguem o acesso contratado, sem promessa de “casa permanente” gratuita por pertencimento.
+Código 31 não significa acompanhamento de 31 dias. Conta do Dono é o evento semanal de demonstração prática e aquisição, com ponte para a Comunidade e promessa de plano individual preservada. No calendário aprovado até 10/12/2026, ocorre às quintas, 20h BRT; C31 substitui nas semanas próprias, com uma edição de dois dias em 29–30/10 e 26–27/11. A modalidade de 05/11 permanecia pendente no registro de calendário; não presumir resolvida. Não criar uma live adicional. A continuidade educativa e o suporte de produto seguem o acesso contratado, sem promessa de “casa permanente” gratuita por pertencimento.
 
 ## A comunidade entre os encontros
 

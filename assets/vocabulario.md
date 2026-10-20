@@ -9,7 +9,9 @@ Revisão: 20/10/2026. Linguagem comum para preservar identidade e esclarecer o q
 | **Comunidade dos Donos** | Produto educacional de conteúdo amplo, aulas, casos e interação, com acesso contratado. |
 | **Código 31** | Cultura e evento, com encontro, aprendizagem, reconhecimento e oferta da edição. Não significa acompanhamento de 31 dias. |
 | **DAP / Do Zero ao Patrimônio** | Low ticket de aquisição de público frio e entrega educativa própria. |
-| **Conta do Dono** | Outro evento, com demonstração e plano prometido; não sinônimo de C31. |
+| **Conta do Dono** | Evento semanal de demonstração prática e aquisição, com plano prometido e ponte para a Comunidade. C31 substitui nas semanas próprias; não é sinônimo de C31. |
+| **Arremata.ai** | Ferramenta transversal; tutoriais de uso não equivalem à formação profissional. |
+| **Arrematador Profissional** | Formação existente, distinta da ferramenta; escopo, preço e entrega ainda não verificados. |
 | **Nunca Financia** | Linguagem histórica de contestação; não recomendação universal ou ataque a quem financiou. |
 | **Paga Menos, Possui Mais** | Intenção de eficiência; exige comparação com custos, prazos, riscos e condições. |
 | **Alavanca** | Recurso de uma estratégia, como lance; envolve condições e riscos, sem multiplicação garantida. |
@@ -30,4 +32,4 @@ Revisão: 20/10/2026. Linguagem comum para preservar identidade e esclarecer o q
 
 Identidade acolhe; oferta explica. Ninguém precisa comprar consórcio, aderir à fé do líder ou desenvolver uma profissão para pertencer. Acesso pago segue contrato. Termos fortes não substituem prova ou escondem obrigação.
 
-Mentoria 10X, Consultoria 10X, Arremata e Vendedor de Elite têm fronteiras próprias, detalhadas na [Peça 16](../doutrina/16-ecossistema-e-proposta-de-valor.md). Primeiro imóvel, expansão e renda são objetivos internos; não novos nomes comerciais.
+Mentoria 10X, Consultoria 10X, Arremata.ai, Arrematador Profissional e Vendedor de Elite têm fronteiras próprias, detalhadas na [Peça 16](../doutrina/16-ecossistema-e-proposta-de-valor.md). Primeiro imóvel, expansão e renda são objetivos internos; não novos nomes comerciais.
