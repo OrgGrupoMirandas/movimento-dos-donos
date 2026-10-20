@@ -1,548 +1,191 @@
-# 📘 O MOVIMENTO DOS DONOS — Documento-Mãe
+# Movimento dos Donos — documento-mãe
 
-> **Documento-mãe · Uso interno · Treinamento · Escala**
-> Atualização editorial: 20/10/2026. A jornada operacional proposta está em [Reconhecimento e comunidade](ops/reconhecimento.md); implantação depende de responsável, capacidade e evidência.
-> Autor: Anthony Miranda
->
-> _"O primeiro imóvel é para você. O segundo é para uma geração."_
-
-A arquitetura completa da tribo. Ideologia, identidade, ritual, linguagem, conteúdo, mídia e funil — em um só documento. Este é o arquivo que treina qualquer pessoa que entra no ecossistema. Time, cortadores, designers, tráfego, copy e assessoria operam a partir daqui.
-
----
-
-## 📑 Sumário
-
-### Camada I — A Engenharia da Tribo _(como a tribo é construída)_
-
-| # | Peça | O que é |
-|---|------|---------|
-| [00](#-peça-00--a-carta-da-tribo) | **A Carta da Tribo** | O pacto de uma página. Quem somos e o que juramos. |
-| [01](#-peça-01--o-manifesto-oficial) | **O Manifesto Oficial** | O texto emocional que faz alguém querer pertencer. |
-| [02](#-peça-02--as-7-camadas-do-movimento) | **As 7 Camadas do Movimento** | A engenharia da tribo, camada por camada, com diagrama. |
-| [03](#-peça-03--linguagem-e-vocabulário-da-tribo) | **Linguagem e Vocabulário da Tribo** | O dicionário oficial. Como todo mundo fala. |
-| [04](#-peça-04--diretrizes-de-conteúdo) | **Diretrizes de Conteúdo** | O que pode, o que não pode, e o protocolo 80/15/5. |
-| [05](#-peça-05--guia-de-mídia-e-pr) | **Guia de Mídia e PR** | Como se portar em podcast, jornal, TV e cortes. |
-| [06](#-peça-06--o-ritual-de-reconhecimento) | **O Ritual de Reconhecimento** | A conexão Dono ↔ Dono. A tribo que cria tribos. |
-| [07](#-peça-07--o-placar-do-movimento) | **O Placar do Movimento** | Progresso público. A contagem regressiva para a liberdade. |
-| [08](#-peça-08--guia-do-funil) | **Guia do Funil** | Do estranho ao Dono. A escada de valor e os CTAs. |
-
-### Camada II — A Doutrina de Escala _(como a tribo vira movimento de massa)_
-
-> As 7 peças que transformam uma tribo bem construída numa nação de 100 mil famílias. Cada uma tem um documento completo em [`doutrina/`](doutrina/). Aqui no Documento-Mãe ficam a essência e o link.
-
-| # | Peça | O que resolve | Risco se faltar |
-|---|------|---------------|-----------------|
-| [09](doutrina/09-a-origem.md) | **A Origem** | A ferida do líder vira missão (Story of Self) | Movimento sem alma — lógica não atravessa fogo |
-| [10](doutrina/10-a-travessia-do-abismo.md) | **A Travessia do Abismo** | As Duas Marchas: fanático × pragmático | 🔴 Teto antes das 100 mil — a guerra afasta a maioria |
-| [11](doutrina/11-celulas-e-capitaes.md) | **As Células e os Capitães** | Liderança distribuída, crescimento por divisão | 🔴 O líder vira gargalo — não escala |
-| [12](doutrina/12-os-anticorpos.md) | **Os Anticorpos** | Protocolo de crise e prevenção | 🔴 Morre na primeira crise mal respondida |
-| [13](doutrina/13-a-liturgia-permanente.md) | **A Liturgia Permanente** | A cadência que retém depois do Código 31 | Euforia com prazo de validade — não fixa |
-| [14](doutrina/14-os-fundadores.md) | **Os Fundadores** | Honrar os 1.000 primeiros (First Follower) | Joga fora a lealdade mais barata e forte |
-| [15](doutrina/15-a-iconografia.md) | **A Iconografia** | O símbolo visível que se ostenta | Tribo que ninguém vê não existe |
-
----
-
-## 🪧 PEÇA 00 — A Carta da Tribo
-
-> Uma página. O documento de pertencimento. Lê-se antes de entender a mecânica — porque pertencer vem antes de aprender.
-
-### Quem somos
-
-Somos o **Movimento dos Donos**: pessoas que assumem responsabilidade pelas próprias decisões e constroem patrimônio para a família. Ser Dono é uma identidade de participação e compromisso; não certifica propriedade, ausência de dívida ou resultado financeiro. A pessoa pode participar antes de comprar. Em contratos e atendimento, aluno e cliente continuam sendo os termos precisos.
-
-### Contra o que lutamos
-
-Combatemos decisões patrimoniais sem clareza de custos, prazos e consequências. A crítica a um mecanismo precisa de fatos e comparação adequada ao caso. O compromisso central é servir à família, inclusive quando o próximo passo adequado for esperar, estudar ou não contratar.
-
-### O que buscamos
-
-**100 mil famílias comprando o primeiro imóvel.** Essa é a missão pública. “100 mil famílias livres” expressa a visão; contratos, contemplações e aquisições são etapas distintas, conforme o [placar](ops/placar.md). Renda de aluguel e legado são caminhos de continuidade, não resultados automáticos.
-
-### Como nos comportamos
-
-Com disciplina, clareza e respeito. Estudamos, registramos um próximo passo possível e compartilhamos aprendizados. O **Código 31** é um evento de entrada; não equivale a acompanhamento de 31 dias nem promete aquisição de imóvel nesse prazo. A continuidade pertence à jornada da comunidade.
-
-### O que significa ser Dono · O que significa Nunca Financiar
-
-Ser Dono é ter liberdade, patrimônio e responsabilidade no jogo de longo prazo. “Nunca Financia” é linguagem histórica do movimento, não uma regra universal para decidir uma contratação. “Paga Menos, Possui Mais” expressa uma intenção; cada comparação deve mostrar custos totais, prazo, riscos e condições. A ferramenta serve ao objetivo da família.
-
-> ### O primeiro imóvel é para você. O segundo é para uma geração.
-> O pacto da tribo: o que construímos não termina em nós. Começa em nós.
-
-### A promessa e o pacto
-
-**Nossa promessa:** ensinamos o caminho que o banco escondeu. Sem atalho mágico, com método e matemática.
-**Nosso pacto:** quem aprende, ensina. Quem liberta a si, ajuda a libertar o próximo. É assim que 100 mil famílias se tornam livres — uma puxando a outra.
-
----
-
-## 🔥 PEÇA 01 — O Manifesto Oficial
-
-Você foi treinado. Treinado para achar que financiar a casa por 30 anos é "conquista". Treinado para comemorar a aprovação do banco como se fosse liberdade — quando era o contrário.
-
-> **O brasileiro não é burro. Ele foi treinado para financiar.**
-
-A gente para por aqui. A gente olha a conta, faz a matemática fria, e enxerga o que sempre esteve na nossa frente: existe outro caminho. O caminho do consórcio, do lance, da alavanca. O caminho de quem paga menos e possui mais.
-
-Não viemos vender um sonho. Viemos tirar uma venda dos olhos. Aqui ninguém vive de aparência — aqui construímos patrimônio com responsabilidade. E Dono não pede permissão.
-
-> **Isso não é opinião. Isso é matemática.**
-
-Nossa missão é alcançar 100 mil famílias caminhando na mesma direção: a liberdade. Não pela sorte, mas pela disciplina. Não em 30 anos, mas no tempo de quem decide jogar o jogo certo.
-
-E quando você chegar lá, lembra do pacto:
+Uso interno · Autor: Anthony Miranda · Revisão editorial: 20/10/2026.
 
 > **O primeiro imóvel é para você. O segundo é para uma geração.**
 
-_— Anthony Miranda, pelo Movimento dos Donos_
+Somos um movimento de famílias que aprendem a decidir, construir e cuidar do patrimônio. O nome expressa responsabilidade: assumir o próprio caminho e ajudar quem vem depois.
 
----
+Nossa missão pública é **100 mil famílias comprando o primeiro imóvel**. O trabalho continua na próxima aquisição, no imóvel que precisa funcionar e no legado que fica. O bilhão é o recibo; as famílias são a razão.
 
-## 🏛️ PEÇA 02 — As 7 Camadas do Movimento
+Este documento organiza identidade, cultura e a relação entre as frentes existentes. Propostas de operação estão identificadas como propostas. O texto não lança produtos nem muda contratos.
 
-> A engenharia da tribo (Seth Godin aplicado). Cada camada tem uma função e um tom. Juntas, transformam um estranho em Dono.
+## 00 · A carta dos Donos
 
-```mermaid
-graph TD
-    V["🎙️ VOZ — frieza + indignação"]
-    P["📸 PROVA — transformações reais"]
-    M["⚙️ MECÂNICA — paga menos, possui mais"]
-    R["🛡️ RITUAL — Código 31"]
-    I["🤝 IDENTIDADE — os Donos"]
-    VI["🎯 VISÃO — 100 mil famílias livres"]
-    ID["⚔️ IDEOLOGIA — Nunca Financia"]
+### Quem somos
 
-    V --> P --> M --> R --> I --> VI --> ID
+Dono é quem assume responsabilidade pelas decisões e participa da causa. Há quem esteja organizando a primeira reserva, quem busque moradia, quem já tenha imóveis e quem queira desenvolver uma atividade profissional. Todos podem aprender e contribuir.
 
-    style ID fill:#8a1f1f,color:#fff
-    style VI fill:#b8923f,color:#fff
-    style I fill:#0c0c0c,color:#b8923f
-    style R fill:#b8923f,color:#fff
-    style M fill:#0c0c0c,color:#b8923f
-    style P fill:#b8923f,color:#fff
-    style V fill:#0c0c0c,color:#b8923f
-```
+Pertencimento não exige consórcio, compra, indicação ou profissão. Acesso a produtos pagos segue a oferta contratada. A identidade não certifica propriedade nem ausência de dívida; aluno, cliente e titular continuam sendo termos precisos no atendimento.
 
-> **A base é a missão das famílias. Identidade, linguagem e voz existem para apoiar decisões e avanços reais.**
+### O que enfrentamos
 
-### 1 · Ideologia — A Guerra
+A decisão feita no impulso. A parcela assumida sem compreender o compromisso. O imóvel comprado sem conhecer os custos. A informação que não chega a quem precisa dela.
 
-**Função:** tornar visível um problema real e mobilizar em torno da conquista patrimonial da família. Conflito é recurso editorial, não obrigação em toda peça nem garantia de alcance. Toda crítica precisa ser sustentada por fatos.
-**Tom:** indignação moral + frieza cirúrgica.
+Nossa resposta é competência: entender a conta, reconhecer os riscos, escolher o que cabe e executar o próximo passo. Ferramentas servem à família; a família não precisa caber numa ferramenta.
 
-> 🗣️ **Frase-mãe:** _"O brasileiro não é burro. Ele foi treinado para financiar."_
+### Nosso compromisso
 
-### 2 · Visão — O Destino
+Aprender antes de assumir obrigações. Comparar alternativas com honestidade. Cumprir o que foi combinado. Compartilhar experiência sem transformar um caso em promessa para todos. Reconhecer quem avançou e quem ajudou.
 
-**Função:** criar missão histórica. Não é sobre dinheiro nem sobre consórcio — é sobre libertar famílias do sistema. É maior que o Anthony, maior que a empresa. É uma causa que forma participantes capazes de decidir, agir e ajudar outras famílias.
-**Tom:** histórico, grandioso, inevitável.
+**Quem aprende, ensina. Quem avança, abre caminho.**
 
-> 🗣️ **Frase-mãe:** _"Quando você me segue, não está seguindo um influenciador. Está ajudando a libertar 100 mil famílias brasileiras."_
+## 01 · O manifesto
 
-### 3 · Identidade — A Tribo
+Uma casa muda o endereço de uma família. Uma decisão consciente pode mudar a história de uma geração.
 
-**Função:** transformar seguidores em membros. Aqui mora o pertencimento, os valores comuns, a linguagem própria, os símbolos e rituais. A pessoa não compra um curso — ela se torna parte do Movimento dos Donos.
-**Tom:** exclusivo, forte, de irmandade.
+Há uma mãe querendo segurança para os filhos. Um trabalhador que deseja voltar para casa com mais tranquilidade. Uma família que economizou por anos e precisa saber por onde começar. Há também quem já comprou e agora precisa fazer o patrimônio funcionar.
 
-> 🗣️ **Frase-mãe:** _"Aqui ninguém vive de aparência. Aqui construímos patrimônio com responsabilidade."_
+Essa história merece mais que uma promessa. Merece informação compreensível, uma conta completa e gente disposta a ajudar.
 
-### 4 · Ritual — A Rotina
+É por isso que existimos.
 
-**Função:** marcar a entrada e orientar uma decisão informada. O **Código 31** é o evento; sua oferta, duração e entregas seguem a edição vigente. Os hábitos e encontros posteriores são definidos na [jornada do membro](ops/reconhecimento.md), não presumidos a partir do nome do evento.
-**Tom:** disciplina militar, teste de fogo.
+Aqui, a pergunta tem lugar. A dúvida pode ser dita. O erro vira aprendizado. A boa decisão pode ser comprar, preparar melhor os recursos ou recusar uma oportunidade que parecia irresistível.
 
-> 🗣️ **Frase-mãe:** _"Entenda o próximo passo. Decida com clareza."_
+Ser Dono começa quando você assume o próximo passo. Estuda. Pergunta. Compara. Age com responsabilidade. Depois estende a mão para outra pessoa fazer o mesmo.
 
-### 5 · Mecânica — O Como
+Queremos 100 mil famílias abrindo a porta do primeiro imóvel. Queremos ver o conhecimento circular, o patrimônio ser cuidado e os filhos receberem mais que bens: receberem capacidade de construir.
 
-**Função:** explicar o método de forma simples e viral. O consórcio é a ferramenta, o lance é a alavanca, a estratégia é o diferencial. Reduzido a uma frase impossível de esquecer.
-**Tom:** didático + objetividade de investidor.
+**O primeiro imóvel é para você. O segundo é para uma geração.**
 
-> 🗣️ **Frase-mãe:** _"O banco te vende dívida cara. Eu te ensino dívida inteligente."_
+— Anthony Miranda, pelo Movimento dos Donos
 
-### 6 · Prova — A Evidência
+## 02 · As sete camadas
 
-**Função:** validar a visão com fatos vivos. Histórias de Donos, escrituras, arremates, casos reais, bastidores da holding, imóveis e processos (Iturama, Urbanova). Prova social é o sangue que dá vida à tribo.
-**Tom:** documental, jornalístico, real.
+A arquitetura original permanece; a missão orienta cada camada.
 
-> 🗣️ **Frase-mãe:** _"Cada caso mostra um caminho e as condições necessárias para percorrê-lo."_
+| Camada | Função | Expressão |
+|---|---|---|
+| Causa | Mobilizar para uma conquista que importa | 100 mil famílias comprando o primeiro imóvel |
+| Visão | Ligar o passo presente ao legado | O pacto da geração |
+| Identidade | Acolher responsabilidade e contribuição | Dono |
+| Ritual | Dar memória, encontro e continuidade | Código 31 e práticas de participação |
+| Método | Tornar a decisão compreensível e aplicável | Objetivo, conta, risco e próximo passo |
+| Prova | Mostrar fatos e suas condições | Caso, documento e estágio correto |
+| Voz | Falar com firmeza e humanidade | Clareza, competência e indignação fundamentada |
 
-### 7 · Voz — O Tom
+A voz pode confrontar uma ideia ruim e acolher uma pessoa na mesma conversa. A força está naquilo que defendemos e conseguimos ensinar.
 
-**Função:** definir a comunicação. A voz mistura frieza técnica, clareza lógica e indignação moral. Você não grita — aponta o absurdo com calma.
-**Tom:** lucidez + revolta legítima.
+## 03 · Um ecossistema, funções diferentes
 
-> 🗣️ **Frase-mãe:** _"Isso não é opinião. Isso é matemática."_
+Os nomes existentes permanecem. Não há uma escada obrigatória de compras.
 
-### Resumo das camadas
+| Frente | Papel | Limite que orienta a comunicação |
+|---|---|---|
+| **Do Zero ao Patrimônio — DAP** | Low ticket de aquisição de público frio, com entrega educacional própria | Entregar o curso; compra não prova intenção de contratar consórcio |
+| **Comunidade dos Donos** | Conteúdo amplo, aulas, base de conhecimento, casos e interação coletiva | “Tudo” precisa corresponder ao acesso contratado; não presume serviços e ferramentas ilimitados |
+| **Código 31** | Cultura **e** evento: missão, encontro, casos, aprendizado, reconhecimento e oferta | Edição tem condições e entregas próprias; não significa acompanhamento de 31 dias |
+| **Conta do Dono** | Outro evento: demonstração da conta e plano inicial individual prometido | Preservar o plano mesmo sem compra; não usar como sinônimo de C31 |
+| **Mentoria 10X** | Nome presente no histórico e na comunicação | Fronteira atual com a Consultoria ainda incerta; não inventar entrega autônoma ou ausência de Anthony |
+| **Consultoria 10X** | Diagnóstico e plano individual, reuniões e apoio prático conforme contrato | Modelo descreve seis meses, duas reuniões Anthony, plano, duas Edwards e WhatsApp; não execução integral pelo time |
+| **Arremata.ai** | Ferramenta, formação e recursos para buscar, avaliar e operar oportunidades | Academia e serviços já existem; formação profissional supervisionada requer capacidade própria |
+| **Vendedor de Elite / canal de representantes** | Formação comercial e caminho voluntário de atuação | Formação não é credenciamento; iniciante e profissional já operador têm necessidades diferentes |
+| **Consórcio** | Uma ferramenta possível de aquisição | Adequação, custos, prazos e obrigações próprios; não é condição de pertencimento |
 
-| Camada | Função na tribo | Tom |
-|--------|-----------------|-----|
-| Ideologia | Declarar o inimigo | Indignação + frieza |
-| Visão | Criar a missão | Histórico, inevitável |
-| Identidade | Gerar pertencimento | Irmandade |
-| Ritual | Moldar comportamento | Disciplina militar |
-| Mecânica | Tornar o método viral | Investidor didático |
-| Prova | Validar com fatos | Documental |
-| Voz | Dar magnetismo | Lucidez + revolta |
+A análise de valor, sobreposições, oportunidades e fontes está na [Peça 16 — Ecossistema e proposta de valor](doutrina/16-ecossistema-e-proposta-de-valor.md). Rotas e entregas ficam em [ops/funil.md](ops/funil.md).
 
----
+Na direção Black de 19/10, a oferta principal é a Comunidade, com opção de consórcio dentro dela. Piloto previsto para 22/10; continuidade condicionada ao resultado. Preços, benefícios, mecanismo financeiro e pendências ficam somente na [ficha P01](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/black-friday-2026/experimentos.md), sem criar regra universal neste movimento.
 
-## 🗣️ PEÇA 03 — Linguagem e Vocabulário da Tribo
+## 04 · Conhecer a pessoa antes de encaminhar
 
-> Tribo tem língua própria. Estes termos são inegociáveis: todo mundo — copy, cortador, tráfego, time — usa exatamente assim. A linguagem cria a fronteira entre quem é de dentro e quem é de fora.
+Dois eixos organizam a conversa; nenhum cria marca, grupo ou novo produto.
 
-| Termo | O que significa | Como usar |
-|-------|-----------------|-----------|
-| **Nunca Financia** | O grito de guerra. Recusa à dívida cara e burra do banco. | Abre vídeo, fecha palestra, gera polêmica. |
-| **Dono** | A identidade de responsabilidade, participação e construção patrimonial. | Usar em pertencimento; manter aluno, cliente e titular onde forem precisos. |
-| **Alavanca** | O lance no consórcio. A engenharia que multiplica patrimônio. | "Usar a alavanca", "engenharia de patrimônio". |
-| **Código 31** | O evento de entrada e educação do movimento. | Como convite ao evento; duração e entregas são as da edição anunciada. |
-| **Paga Menos, Possui Mais** | A mecânica em uma frase. | Resumo do método, sempre que explicar o "como". |
-| **O Sistema** | O antagonista: o modelo bancário de financiamento. | Nunca personalizar num banco só. "O sistema" é maior. |
-| **Dívida inteligente** | Decisão analisada pelo custo, prazo, risco e capacidade. | Não atribuir automaticamente a um produto. |
-| **100 mil famílias livres** | A visão. O destino coletivo. | Sempre que a conversa precisar de causa, não de produto. |
-| **O Pacto da Geração** | O mantra do legado: _"O primeiro imóvel é para você. O segundo é para uma geração."_ | Frase-mãe nível mantra. Fecha histórias de prova, eleva a visão, ancora todo material de topo. |
+| Eixo | Pergunta | Possibilidades |
+|---|---|---|
+| Objetivo patrimonial | O que você quer fazer acontecer? | Primeiro imóvel, próxima aquisição/expansão, renda ou operação do imóvel existente |
+| Papel pretendido | Para quem você quer aplicar essa competência? | Próprio patrimônio; atividade profissional voluntária, quando houver interesse |
 
-### Status da frase: mantra estrutural
+A etapa vem depois: preparar recursos, avaliar, executar ou operar. Recursos e capacidade mensal são informações privadas quando necessárias à decisão. Pouco capital não obriga ninguém a comprar curso, vender consórcio ou recrutar pessoas.
 
-Esta não é uma frase de apoio — é o mantra do movimento, no mesmo nível que um "Just Do It" ou "Think Different" tem para as marcas que viraram movimento. Como essas marcas, ela **não vende o produto, vende a causa**: tira o foco do imóvel e coloca no legado. Regra de uso: aparece na capa de todo material institucional, fecha toda história de transformação real, e nunca é dita de forma apressada — ela respira.
+Comprar para si é diferente de prestar serviço a terceiros. Representante é diferente de capitão. A pessoa pode mudar de prioridade sem perder identidade.
 
-### Regra de ouro da linguagem
+## 05 · Cultura que produz capacidade
 
-Usar a identidade sem esconder o que está sendo oferecido. Compra de curso, adesão a consórcio, participação na comunidade e aquisição de imóvel são fatos diferentes. Nenhuma frase de força autoriza promessa universal, prazo não contratado ou inferiorização de quem escolheu outro caminho.
+O C31 pode expressar a cultura por meio de missão, caso comprovado, aprendizado inclusive com erro ou decisão de não comprar, reconhecimento de ajuda e convite ao próximo passo. Essa é uma proposta de organização cultural; preserva a entrega e o formato de cada edição, sem impor novo tempo ou calendário.
 
----
+A Comunidade já tem aulas e interação: os registros de setembro e outubro incluem dúvidas, orçamento, plano com IA e uso do Arremata. O valor seguinte a investigar é o que o participante consegue compreender e concluir com esse repertório. Não partimos da premissa de biblioteca sem prática, nem afirmamos efeito de crescimento que não foi medido.
 
-## 📋 PEÇA 04 — Diretrizes de Conteúdo
+Um avanço pode ser um orçamento organizado, uma análise revisada, um risco identificado, um atendimento adequado ou uma locação realizada. Compra é um dos marcos possíveis. Ajuda útil entre membros tem valor próprio.
 
-> A regra que mantém o movimento consistente em qualquer canal: Instagram, YouTube, TikTok, podcast. Educação primeiro. Oferta por último. Sempre.
+Células, capitães, liturgia e fundadores são parte da arquitetura existente. A implantação exige pessoas, escopo e capacidade; não se presume rede ativa por haver um documento.
 
-### O Protocolo 80 / 15 / 5
+## 06 · Linguagem e voz
 
-```mermaid
-pie showData
-    title Proporção sagrada do conteúdo
-    "Educação (ensina, indigna, esclarece)" : 80
-    "Prova (histórias reais, bastidores)" : 15
-    "Oferta (o convite direto)" : 5
-```
+**Dono**, **Pacto da Geração** e a saudação **“Dono?” — “Dono.”** preservam memória e reconhecimento. Uso público é voluntário.
 
-- **80% Educação:** o conteúdo que ensina a matemática, expõe o sistema e gera a indignação lúcida. É o que constrói autoridade e tribo.
-- **15% Prova:** histórias reais, escrituras, arremates, bastidores.
-- **5% Oferta:** o convite direto — e só funciona porque os outros 95% pagaram o caminho.
+“Nunca Financia” é linguagem histórica. Não é recomendação universal nem julgamento de quem financiou. “Paga Menos, Possui Mais” é intenção de eficiência, que precisa de comparação com condições completas. “Alavanca” explica uma possibilidade e seus riscos; não significa multiplicação garantida.
 
-### O que pode · O que não pode
+A fé de Anthony integra sua origem e seus princípios. Ninguém precisa professar fé, aderir à linguagem de guerra ou defender o líder para participar. Causa e conta podem conviver; ambas exigem verdade.
 
-| ✅ Pode (e deve) | ❌ Não pode |
-|------------------|-------------|
-| Apontar o absurdo com calma e número na mão | Prometer enriquecimento rápido ou ganho garantido |
-| Usar a matemática como prova ("isso não é opinião") | Atacar pessoas, gritar ou perder a frieza |
-| Contar histórias reais de transformação | Diluir o vocabulário da tribo |
-| Educação silenciosa: ensinar sem pedir nada | Oferta agressiva sem educação antes |
-| Polarizar contra "o sistema", nunca contra pessoas | Inventar prova — toda prova é real e verificável |
-| Repetir as frases-mãe até virarem bordão | Aconselhar investimento específico como certeza |
+O [vocabulário](assets/vocabulario.md) detalha os termos. A [Travessia](doutrina/10-a-travessia-do-abismo.md) orienta tons e compreensão do público.
 
-### 🔁 Protocolo de Rotação de Conteúdo
+## 07 · Conteúdo, eventos e entrega
 
-Cada produto tem uma "família" de variações que giram para manter frescor sem perder a mensagem central. Regra prática de rotação semanal:
+Hipótese de trabalho: **react atrai, autoral esclarece, comunidade ajuda a transformar aprendizado em ação**. Os eventos também vendem. Cada função precisa de medição própria; alcance ou venda não demonstram conquista patrimonial.
 
-- **Seg–Ter:** educação dura (a matemática, o sistema exposto).
-- **Qua:** ritual e identidade (Código 31, o que é ser Dono).
-- **Qui:** prova social (história real, bastidor, escritura).
-- **Sex:** mecânica aplicada (paga menos, possui mais, na prática).
-- **Sáb–Dom:** visão e legado (100 mil famílias, a frase do legado).
+A grade, as legendas por perfil, as CTAs e a cadência seguem o [ciclo Instagram do Growth](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/08-conteudo/instagram-12-semanas/README.md) e suas fontes. A antiga proporção 80/15/5 não é regra obrigatória nem resultado provado. Não ativar keywords ou automações a partir deste texto.
 
-### 🌡️ Protocolo de Tom — Frieza + Indignação
+Antes do próximo convite, cumprir a entrega anunciada: curso acessível, aula realizada, plano entregue, suporte contratado disponível. O próximo passo pode ser aprofundar, pedir atendimento, usar uma ferramenta ou continuar se preparando.
 
-Toda peça deve passar por três filtros antes de publicar:
+Detalhes em [Conteúdo](ops/conteudo.md), [Mídia e PR](ops/midia-pr.md) e [Funil](ops/funil.md).
 
-1. **Está lúcida?** Tem número, lógica, clareza.
-2. **Está fria?** Sem desespero, sem grito.
-3. **Está indignada?** Aponta o absurdo de um jeito que incomoda o sistema.
+## 08 · Reconhecer sem transformar pertencimento em ranking
 
-Se faltar um dos três, a peça volta.
+Celebramos uma dificuldade enfrentada, uma ação concluída e uma ajuda confirmada por quem a recebeu. Casos públicos dependem de consentimento e evidência. Quantidade de cartas, ticket ou indicações não define quem é mais Dono.
 
----
+Capitães acolhem e facilitam; não recebem carteira de membros para vender. Fundadores guardam a memória; antiguidade não confere competência técnica ou liderança automática. Voluntariado não pressupõe mão de obra gratuita para executar operação técnica.
 
-## 📡 PEÇA 05 — Guia de Mídia e PR
+A primeira aplicação proposta usa uma atividade existente por quatro semanas, com facilitador e capacidade confirmados. Observar clareza, ação, retorno, ajuda e esforço operacional antes de expandir. Nenhuma nova live obrigatória de Anthony. Ver [Reconhecimento e comunidade](ops/reconhecimento.md).
 
-> Como o líder e o time se portam em podcasts, jornais, TV e cortes. A mídia é palco — e palco amplifica tanto a força quanto o erro.
+## 09 · O placar a serviço das famílias
 
-### As âncoras inegociáveis
+Aquisição de audiência, participação, compra educacional, contrato, contemplação, imóvel adquirido e locação são indicadores diferentes. Somente primeiro imóvel comprovado da família avança a missão pública de 100 mil.
 
-Em qualquer aparição, três coisas precisam ser ditas, não importa a pergunta:
+Crédito vendido não é receita; comissão contratada não é caixa. AS2 e AMC2 permanecem separadas em apuração financeira e comercial. Critérios, deduplicação, responsabilidades e limites estão no [Placar](ops/placar.md).
 
-1. O inimigo ("o sistema treinou o brasileiro a financiar")
-2. A visão ("100 mil famílias livres")
-3. A mecânica ("paga menos, possui mais")
+## 10 · O que as evidências mudam
 
-Se a entrevista acabar e essas três não foram ditas, a aparição foi desperdiçada.
+Cortes históricos, não métricas atuais de produção. As populações abaixo não devem ser somadas.
 
-### Por canal
+| Evidência | Leitura permitida |
+|---|---|
+| Setembro: 392 posts; reactions concentraram 96,79% da soma de alcances por peça, acumulados até a coleta de 13/10 | Distribuição forte; soma repete pessoas, não comprova venda nem transferência para autoral |
+| C31 jan–ago: 83 vendas, R$35,82 milhões em crédito; fevereiro 670 leads/22 vendas versus agosto 1.875/8 | Evento vende; sala maior não garantiu mais vendas; não é receita ou prova de causa isolada |
+| DAP 1T: CPA de R$214,85 por compras atribuídas versus R$117,95 usando transações de todas as origens | Denominadores diferentes; não afirmar lucro ou causalidade no consórcio |
+| Conta do Dono: 23 respostas de 02–19/10, 14 renda e nove renda+moradia; Lead Score 03–19/10: 19 registros, oito leilão, seis moradia, cinco renda | Objetivos plurais; amostras pequenas, possível sobreposição, sem inferir quem comprou; leilão é meio |
+| Pesquisa de 13.350 respostas, coletadas entre dezembro/2023 e fevereiro/2024 | Contexto histórico, não retrato atual apesar da pasta “ATUAL” |
 
-| Canal | Postura | Objetivo |
-|-------|---------|----------|
-| Podcast longo | Profundidade, histórias, números. Espaço para a indignação lúcida respirar. | Autoridade + cortes virais. |
-| Jornal / TV | Frieza máxima. Frases curtas, à prova de edição. Uma frase-mãe por bloco. | Credibilidade + alcance. |
-| Cortes / Reels | Um ponto só. Abre com a polêmica, fecha com a frase-mãe. | Viralização + topo de funil. |
-| Entrevista hostil | Não revida no grito. Devolve com número. "Isso não é opinião, é matemática." | Virar o ataque em prova. |
+Fontes: [DAP](https://github.com/OrgGrupoMirandas/playbook-growth/tree/main/01-processos/funis/dap), [série C31](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/main/edicoes/ESTATISTICAS-SERIE.md), [baseline por formato](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/08-conteudo/instagram-12-semanas/baseline-por-formato.md), [pesquisa Conta do Dono](https://docs.google.com/spreadsheets/d/18pu0UEKJrkml5p-PfuJCnwpy6eAp2ULv8vTJBABaUig/edit) e [Lead Score](https://docs.google.com/spreadsheets/d/1pxjHb_GW0cII1axL5CF9BcDXbjY9OO4a7UpXOhfk1Bo/edit). O agregado dos posts refere-se à coleta preservada no IA OPS, não apenas ao baseline de formatos. A Peça 16 reúne fontes adicionais e limites da análise de 20/10.
 
-### Sempre · Nunca
+## 11 · Quem responde por quê
 
-| ✅ Sempre | ❌ Nunca |
-|-----------|----------|
-| Falar em frases curtas e citáveis | Prometer retorno garantido ou dar dica de investimento como certeza |
-| Trazer um número concreto por bloco | Citar nome de banco como inimigo pessoal |
-| Reconduzir toda pergunta para uma das 3 âncoras | Perder a frieza diante de provocação |
-| Deixar uma frase-mãe plantada em cada aparição | Improvisar número que não pode comprovar |
+| Escopo | Responsabilidade |
+|---|---|
+| Causa, direção e condições que dependem do CEO | Anthony |
+| Narrativa, aquisição, evento e conexão entre entradas | Felipe Clavijo / Growth |
+| Atendimento e adequação comercial Yes | Adrian |
+| Vínculos, integrações e continuidade técnica | Nériton / Sistemas |
+| Entrega e suporte pós-venda | Responsável do produto; Kamila/CS somente no escopo contratado |
+| Consultoria e apoio técnico | Anthony, Edwards e equipes conforme contrato; sem presumir operação diária da Comunidade pelo COO |
+| Canal de representantes | Tadeu, conforme rota e escopo vigentes; sem presumir formação geral de iniciantes já atribuída |
+| Produto Arremata | Responsáveis e capacidade do produto; Sistemas não equivale automaticamente a operação pedagógica |
+| Facilitação comunitária e formação prática nova | Responsável e capacidade a confirmar antes de oferecer |
 
-### 🎬 Protocolo de Aproveitamento (1 aparição → muito conteúdo)
+Novos leads comerciais entram pela Julia. Atendimento humano ativo preserva a mesma oportunidade, responsável e etapa; uma nova entrada não reinicia a relação.
 
-- Toda aparição é gravada em alta para gerar cortes.
-- Meta: extrair de 5 a 10 cortes por podcast longo.
-- Cada corte abre com o gancho mais polêmico dos primeiros 3 segundos.
-- Lower third padronizado para "educação silenciosa" da marca.
+## 12 · Doutrina e operação
 
----
+| Peça | Para consultar |
+|---|---|
+| [09 · A Origem](doutrina/09-a-origem.md) | História atribuída ao livro e Lei Anti-Ídolo |
+| [10 · A Travessia](doutrina/10-a-travessia-do-abismo.md) | Causa, razão e linguagem adequada |
+| [11 · Células e Capitães](doutrina/11-celulas-e-capitaes.md) | Facilitação distribuída e seus limites |
+| [12 · Os Anticorpos](doutrina/12-os-anticorpos.md) | Escuta, correção e resposta a crises |
+| [13 · A Liturgia Permanente](doutrina/13-a-liturgia-permanente.md) | Ritmo útil e voluntário |
+| [14 · Os Fundadores](doutrina/14-os-fundadores.md) | Memória e reconhecimento dos primeiros |
+| [15 · A Iconografia](doutrina/15-a-iconografia.md) | Conceitos visuais já propostos |
+| [16 · Ecossistema e proposta de valor](doutrina/16-ecossistema-e-proposta-de-valor.md) | Análise aprofundada e oportunidades |
 
-## 🤝 PEÇA 06 — O Ritual de Reconhecimento
+Literatura inspira hipóteses; não substitui o que foi contratado, entregue e medido. O [índice da doutrina](doutrina/README.md) registra a leitura parcial e seus limites.
 
-> Tribo forte não se conecta só de baixo pra cima (líder → membro). Ela se conecta de lado a lado (Dono ↔ Dono). É a conexão horizontal que transforma seguidor em evangelista — e é assim que uma tribo cria outras tribos.
-
-```mermaid
-graph TD
-    subgraph HORIZONTAL["+ HORIZONTAL — movimento que se multiplica"]
-        L2["LÍDER"]
-        D1["Dono"]
-        D2["Dono"]
-        D3["Dono"]
-        N1["novo"]
-        N2["novo"]
-        L2 --> D1
-        L2 --> D2
-        L2 --> D3
-        D1 <--> D2
-        D2 <--> D3
-        D1 --> N1
-        D3 --> N2
-    end
-
-    subgraph VERTICAL["SÓ VERTICAL — frágil"]
-        L1["LÍDER"]
-        A["seguidor"]
-        B["seguidor"]
-        C["seguidor"]
-        L1 --> A
-        L1 --> B
-        L1 --> C
-    end
-
-    style L1 fill:#8c6d2a,color:#fff
-    style L2 fill:#8c6d2a,color:#fff
-    style D1 fill:#b8923f,color:#fff
-    style D2 fill:#b8923f,color:#fff
-    style D3 fill:#b8923f,color:#fff
-    style A fill:#0c0c0c,color:#fff
-    style B fill:#0c0c0c,color:#fff
-    style C fill:#0c0c0c,color:#fff
-    style N1 fill:#b8923f,color:#fff
-    style N2 fill:#b8923f,color:#fff
-```
-
-> **Dono reconhece Dono. Cada um vira porta de entrada de novos.**
-
-### Como um Dono reconhece outro
-
-Todo movimento real tem um sinal de reconhecimento — o aceno entre dois que pertencem ao mesmo grupo. No Movimento dos Donos, o reconhecimento é simples e replicável:
-
-- **A saudação:** "Dono?" — "Dono." A pergunta e a resposta que confirmam o pertencimento.
-- **O selo:** quem é Dono se identifica publicamente com o termo, não com "aluno" ou "seguidor". Bio, comentário, apresentação — sempre "Dono".
-- **O gesto de prova:** ao fechar uma conquista (escritura, arremate, lance contemplado), o Dono compartilha com a frase do pacto. A vitória de um é combustível da tribo inteira.
-
-### 🌐 Protocolo de Multiplicação — Tribo que cria tribos
-
-O movimento não cresce só pelo líder. Cresce quando cada Dono recruta o próximo. O protocolo:
-
-- Todo Dono novo é apresentado publicamente pela tribo, não só pelo líder.
-- Quem traz um novo Dono é reconhecido — o pacto ("quem aprende, ensina") vira status.
-- Histórias de transformação sempre creditam quem indicou o caminho.
-- Espaços de conexão Dono ↔ Dono (comunidade, encontros, grupos) são tão prioritários quanto o conteúdo do líder.
-
-> 🗣️ **Princípio:** _"Um movimento não é uma audiência ouvindo um líder. É uma tribo que cria outras tribos."_
-
----
-
-## 📊 PEÇA 07 — O Placar do Movimento
-
-A missão é 100 mil famílias comprando o primeiro imóvel. Contrato fechado é um marco de entrada, não prova de aquisição. Critérios, fontes, deduplicação e estados de implantação vivem exclusivamente em [ops/placar.md](ops/placar.md). Celebrar cada avanço com o nome correto e evidência correspondente.
-
----
-
-## 🪜 PEÇA 08 — Guia do Funil
-
-> A jornada do estranho ao Dono. Conteúdo no topo (Vaynerchuk), escada de valor no meio e fundo (Hormozi). Cada degrau entrega valor antes de pedir o próximo passo.
-
-```mermaid
-graph TD
-    A["🎣 ATRAÇÃO — Conteúdo gratuito (Reels, cortes, YouTube)<br/>Educação 80% · gera tribo"]
-    B["🔥 ENGAJAMENTO — Webinar / Código 31<br/>Lead entra na missão · ritual de entrada"]
-    C["🤝 CONVERSÃO — Comunidade dos Donos<br/>Pertencimento contínuo"]
-    F["🛠️ FERRAMENTA — Arremata.AI (SaaS)<br/>Inteligência de leilão · usa a alavanca"]
-    D["🚀 ASCENSÃO — Consultoria 10X<br/>Alto valor · Donos avançados"]
-
-    A --> B --> C --> F --> D
-
-    style A fill:#0c0c0c,color:#b8923f
-    style B fill:#8c6d2a,color:#fff
-    style C fill:#b8923f,color:#0c0c0c
-    style F fill:#b8923f,color:#0c0c0c
-    style D fill:#8a1f1f,color:#fff
-```
-
-### A escada de valor
-
-| Degrau | Produto | Status | Papel no funil | CTA padrão |
-|--------|---------|--------|----------------|------------|
-| Topo | Conteúdo gratuito | ATIVO | Atrai, educa, cria tribo | "Segue o movimento" |
-| Entrada | Webinar / Código 31 | ATIVO | Converte espectador em lead com ritual | "Entra no Código 31" |
-| Núcleo | Comunidade dos Donos | ATIVO (Cademi) | Pertencimento e retenção | "Conheça a Comunidade dos Donos" |
-| Ferramenta | Arremata.AI | ATIVO (SaaS) | Inteligência de leilão (produto e ferramenta interna) | "Usa a alavanca" |
-| Topo da escada | Consultoria 10X | ATIVO | Estratégia de patrimônio de alto valor | "Joga o jogo 10X" |
-
-### 🔗 Protocolo de CTA e Rastreamento
-
-- Um único CTA por peça — nunca dois pedidos competindo.
-- CTA sempre depois do valor entregue, nunca antes (frictionless selling).
-- Todo link carrega UTM padronizada por canal e campanha.
-- Tags por origem para mapear de qual conteúdo o Dono entrou.
-- Sequência de follow-up automatizada após cada entrada de lead.
-
-### Princípio que une tudo (Hormozi + Vaynerchuk)
-
-Vaynerchuk no topo: dá, dá, dá — valor sem pedir nada, até a tribo confiar. Hormozi na escada: cada oferta vale tanto que dizer não parece burrice. A ponte entre os dois é a frase do legado — porque ninguém sobe a escada por um imóvel. Sobe por uma geração.
-
-> ## Paga menos. Possui mais.
-> O movimento inteiro cabe em três palavras. Tudo aqui existe para provar essa frase.
-
----
-
-## 🧭 Apêndice — Os elementos da tribo (checklist Seth Godin)
-
-Uma tribo precisa de sete elementos. O Movimento dos Donos tem todos:
-
-| Elemento | No Movimento dos Donos |
-|----------|------------------------|
-| Um líder | Anthony |
-| Uma ideia forte | Nunca Financia |
-| Uma visão futura | 100 Mil Famílias Livres |
-| Uma linguagem | Movimento dos Donos (vocabulário próprio) |
-| Um ritual | Código 31 |
-| Um território | Instagram + YouTube + Comunidades |
-| Um inimigo | O Sistema de Financiamento |
-
-> A Camada I tem os 7 elementos da tribo. A Camada II abaixo é o que falta para a tribo virar **movimento de massa** — a diferença entre uma comunidade forte e uma campanha de nação.
-
----
-
-# 🏛️ CAMADA II — A DOUTRINA DE ESCALA
-
-> A Camada I constrói a tribo. Mas tribo bem construída ainda não é movimento de 100 mil famílias. Estas 7 peças são a engenharia da escala: a alma que cola, a ponte para a maioria, a estrutura que multiplica, o sistema imune que protege, o ritmo que retém, a lealdade que defende e a bandeira que torna tudo visível.
->
-> Cada peça tem documento completo em [`doutrina/`](doutrina/). Abaixo, a essência de cada uma.
-
-### 🩸 Peça 09 — A Origem · [completo →](doutrina/09-a-origem.md)
-A ferida do líder convertida em missão (Story of Self, Marshall Ganz). **Escrita com a história real do Anthony** (fonte: o livro dele) — Jacareí, fev/2013, a luz cortada, a Cintia fazendo arroz no escuro, o porteiro da grade que não abria. Os 5 batimentos — Coleira, Conta, Recusa, Preço, Volta — todos preenchidos, mais a versão-palco de 90 segundos. Blindada pela **Lei Anti-Ídolo** (que nasceu na própria dedicatória dele: _"o bilhão não é meu, eu só executo"_): prova que o caminho funciona, não constrói um trono. O herói é o ouvinte.
-> 🗣️ _"Naquela noite eu decidi que o problema não era a conta de luz."_
-
-### 🌉 Peça 10 — A Travessia do Abismo · [completo →](doutrina/10-a-travessia-do-abismo.md)
-🔴 **Risco de escala.** O tom de guerra recruta o fanático (16%) e afasta a maioria pragmática (84%) que só quer pagar menos pela casa. Solução: **As Duas Marchas** — a Marcha da Fé (guerra, identidade) e a Marcha da Razão (conta, prova, zero guerra), que convergem no mesmo Dono. Regra de ouro: nunca misturar as duas na mesma peça. A Razão é também o escudo jurídico do movimento.
-> 🗣️ _"O fanático entra pela bandeira. O resto da nação entra pela conta."_
-
-### 🛡️ Peça 11 — As Células e os Capitães · [completo →](doutrina/11-celulas-e-capitaes.md)
-🔴 **Risco de escala.** 100 mil ÷ 1 Anthony = impossível. Estrutura em 4 patentes (Líder → Capitães → Células de ~12 → Donos) com **crescimento por divisão celular** — 17 divisões passam de 100 mil. O Capitão é **honra, não emprego**: a camada-tribo nunca se mistura com a camada-comercial (sob pena de virar "pirâmide"). O líder forma Capitães que formam Capitães — e deixa de ser o teto.
-> 🗣️ _"Eu não quero 100 mil pessoas me ouvindo. Quero 100 mil pessoas se ouvindo."_
-
-### 🦠 Peça 12 — Os Anticorpos · [completo →](doutrina/12-os-anticorpos.md)
-🔴 **Risco de escala.** Movimento grande é alvo grande, e a crise se vence nas primeiras 6 horas. Prevenção (nunca prometer o que não se controla) + protocolo para os 5 tipos de crise: Mártir Reverso, Ataque de Mídia, Risco Jurídico, Placar Furado, Traição Interna. Doutrina fixa: velocidade > perfeição, frieza sempre, número não emoção, uma boca só, transformar ataque em prova.
-> 🗣️ _"Eles vão atacar. A gente não grita de volta — a gente mostra a conta."_
-
-### 🔔 Peça 13 — A Liturgia Permanente · [completo →](doutrina/13-a-liturgia-permanente.md)
-Código 31 é o evento de entrada; a continuidade vem dos encontros e ações da comunidade. O **Loop do Dono** (gatilho → ação → recompensa variável → investimento) e o **Calendário Sagrado** em 4 ritmos: o Gesto diário, a Missa semanal (Live + Célula), o Marco mensal (C31 + placar), a Peregrinação anual. Mais os feriados próprios do movimento. Retenção é problema de ritmo, não de convencimento.
-> 🗣️ _"A gente não te dá um evento — a gente te dá um ritmo."_
-
-### 🏅 Peça 14 — Os Fundadores · [completo →](doutrina/14-os-fundadores.md)
-Os primeiros 1.000 Donos = "Os Fundadores", numerados 001–1.000. Quando bate 1.000, fecha para sempre (escassez real — o tempo não volta). O ativo mais leal e mais barato do movimento: honra quem acreditou **antes da prova existir** (Derek Sivers, o primeiro seguidor). Privilégios de status/acesso/legado — nunca retorno por antiguidade. São os Capitães naturais da Peça 11.
-> 🗣️ _"Vocês entraram quando só tinha a minha palavra. Isso não tem preço."_
-
-### 🎖️ Peça 15 — A Iconografia · [completo →](doutrina/15-a-iconografia.md)
-A língua (Peça 03) é invisível; falta a bandeira. Os 4 elementos visuais: o **Emblema** (recomendado: A Chave — posse, não permissão), as **Cores** já existentes formalizadas (preto-sistema, dourado-patrimônio, sangue-guerra, branco-verdade), o **Gesto** físico de saudação, e a **Assinatura** tipográfica (adota o estilo Molina). Regra: molde com rigor absoluto, depois solte livre para o mundo.
-> 🗣️ _"Dá pra reconhecer um Dono do outro lado da rua — antes dele abrir a boca."_
-
----
-
----
-
-## ANEXO A — Operacional: quem executa cada peca
-
-> Toda peca tem um dono. Dono responde pelo resultado, nao pela tarefa. Se nao sabe como, pergunta. Se nao consegue, escala.
-
-### Peca 04 — Conteudo
-
-| Etapa | Responsavel | Entrega |
-|-------|-------------|---------|
-| Gravar conteudo bruto | Anthony | Video/audio bruto no Drive |
-| Editar video longo | Carla (IA) + editor externo | Video editado + thumbnail |
-| Cortar reels/clips | Clipadores externos | 3-5 cortes por video longo |
-| Aprovar cortes e legendas | Anthony | Aprovacao no WA (OK ou ajuste) |
-| Publicar + agendar | Felipe Clavijo (Head de Growth) | Postar no IG/YT + agendar horario |
-| Copywriting (caption, hook) | Carla (IA) | Caption pronta com CTA unico |
-| Rotacao semanal (Seg-Dom) | Carla | Pauta semanal entregue domingo |
-
-**Workflow:** Anthony grava (Seg/Sex) → Carla edita + clipadores cortam (48h) → Anthony aprova (WA) → Felipe Clavijo (Head de Growth) publica.
-
-### Peca 05 — Midia e PR
-
-| Etapa | Responsavel | Entrega |
-|-------|-------------|---------|
-| Prospectar podcasts/midia | Felipe Clavijo (Head de Growth) | Lista mensal de oportunidades |
-| Agendar participacao | Felipe Clavijo (Head de Growth) | Data confirmada no calendario Anthony |
-| Preparar briefing pre-aparicao | Carla | 1 pagina: 3 ancoras + dados + case |
-| Gravar/participar | Anthony | Aparicao feita |
-| Extrair cortes da aparicao | Clipadores | 5-10 cortes por podcast longo |
-| Distribuir cortes | Felipe Clavijo (Head de Growth) | Publicado em todos os canais |
-
-**Regra:** nenhuma aparicao de midia acontece sem briefing da Carla entregue 24h antes.
-
-### Peca 06 — Reconhecimento e comunidade horizontal
-
-| Etapa | Responsavel | Entrega |
-|-------|-------------|---------|
-| Curadoria de vitorias (contemplacao, escritura) | Kamila (CS) | Case identificado e encaminhado |
-| Produzir post/story de reconhecimento | Carla + clipadores | Peça pronta pro feed |
-| Publicar reconhecimento | Felipe Clavijo (Head de Growth) | Postado + marcacao do Dono |
-| Animar comunidade Cademi | Edwards | Interacao semanal, desafios, destaques |
-| Programa de indicacao (Dono traz Dono) | Carla (estrutura) + Edwards (execucao) | Mecanismo ativo com tracking |
-
-### Peca 07 — Placar
-
-| Etapa | Responsavel | Entrega |
-|-------|-------------|---------|
-| Validação e atualização do placar | Nériton + CS/Financeiro | Aplicar [critérios do placar](ops/placar.md); automação ainda exige prova |
-| Publicação de marco validado (indicador e unidade do placar) | Carla + Felipe Clavijo (Head de Growth) | Post comemorativo |
-| Auditoria trimestral | Edwards + Midiane | Cruzamento placar vs contratos |
-| Exibicao no site/perfil | Felipe Clavijo (Head de Growth) | Numero visivel e atualizado |
-
-### Peca 08 — Funil
-
-| Degrau | Dono operacional | Entrega |
-|--------|------------------|---------|
-| Conteudo gratuito (topo) | Felipe Clavijo (Head de Growth) + Carla | Publicacao constante 80/15/5 |
-| Codigo 31 (entrada) | Anthony + Neriton | Evento mensal executado (skill codigo31) |
-| Comunidade dos Donos (nucleo) | Edwards + Kamila | Engajamento ativo na Cademi |
-| Arremata.AI (ferramenta) | Neriton | SaaS funcionando, onboarding |
-| Consultoria 10X (topo) | Anthony | Sessoes entregues, pipeline proprio |
-
----
-
-_Documento-Mae do Movimento dos Donos · Uso interno · Confidencial_
+> **O bilhão não é meu. É das 100.000 famílias. Eu só executo.**

@@ -1,50 +1,62 @@
-# Funil — Escada de Valor
+# Funil — rotas de valor e entrega
 
-Última atualização editorial: 20/10/2026.
+Revisão: 20/10/2026. Mapa documental do ecossistema; disponibilidade e integrações exigem prova por oferta. Não é sequência obrigatória de compras.
 
-## Principio
+## Partir da pessoa
 
-Vaynerchuk no topo: da, da, da — valor sem pedir nada.
-Hormozi na escada: cada oferta vale tanto que dizer nao parece burrice.
-A ponte entre os dois e a frase do legado.
+Registrar objetivo patrimonial, etapa e, se houver, interesse voluntário em atividade profissional. Primeiro imóvel, expansão e renda são segmentos internos; não novos nomes comerciais. Recursos e capacidade mensal entram em privado quando necessários. Quem precisa preparar a base pode estudar e esperar sem ser conduzido a outra compra.
 
-## A escada
+## Frentes e passagem seguinte
 
-| Degrau | Produto | Status | Dono operacional | CTA |
-|--------|---------|--------|------------------|-----|
-| Topo de funil | Conteudo gratuito | ATIVO | Felipe Clavijo (Head de Growth) + Carla | "Segue o movimento" |
-| Entrada | Codigo 31 (live mensal) | ATIVO | Anthony + Neriton | "Entra no Codigo 31" |
-| Nucleo | Comunidade dos Donos | ATIVO (Cademi) | Edwards + Kamila | "Conheça a Comunidade dos Donos" |
-| Ferramenta | Arremata.AI | ATIVO (SaaS) | Neriton | "Usa a alavanca" |
-| Topo da escada | Consultoria 10X | ATIVO | Anthony | "Joga o jogo 10X" |
+| Frente | Entrega central | Próximo passo possível |
+|---|---|---|
+| Conteúdo gratuito | Identificação, explicação e orientação | Recurso anunciado ou entrada existente coerente com a dúvida |
+| DAP — Do Zero ao Patrimônio | Low ticket de aquisição de público frio e aprendizagem paga | Aplicar conteúdo; aprofundar ou pedir atendimento se pertinente |
+| Código 31 | Cultura e evento: missão, casos, aprendizado, reconhecimento e oferta | Ação prática, continuidade contratada ou decisão sobre oferta da edição |
+| Conta do Dono | Demonstração e plano inicial individual prometido | Entregar plano mesmo sem compra; proposta apenas se adequada |
+| Comunidade dos Donos | Acervo amplo, aulas, casos, base de conhecimento e interação coletiva | Concluir tarefa, esclarecer dúvida, ajudar e aprofundar dentro do acesso contratado |
+| Mentoria 10X | Fronteira atual por esclarecer | Conferir promessa, contrato, responsável e cadência antes de tratá-la como produto distinto |
+| Consultoria 10X | Diagnóstico, plano e apoio individual/prático conforme contrato | Decisões e execução assistida no escopo; cliente conserva responsabilidades e custos |
+| Arremata.ai | Busca, análise, gestão, academia e serviços existentes | Usar recurso adequado à tarefa; não presumir supervisão ou habilitação profissional |
+| Vendedor de Elite / representantes | Formação comercial e canal voluntário | Iniciante aprende; profissional apto segue onboarding, contrato, rota e acessos aplicáveis |
+| Consórcio | Ferramenta de aquisição possível | Avaliar adequação, contratar se pertinente e seguir pós-venda específico |
 
-## As Duas Marchas por etapa (Peca 10)
+O contrato-modelo da Consultoria descreve seis meses, duas reuniões com Anthony, plano, duas reuniões com Edwards e WhatsApp. Não promete execução integral pelo time. MP10X histórico incluía Anthony e a LP de Mentoria promete acompanhamento direto; o relato atual do CEO não comprova uma Mentoria autônoma sem ele. Fontes e proposta de fronteira na [Peça 16](../doutrina/16-ecossistema-e-proposta-de-valor.md).
 
-Cada etapa do funil tem uma marcha dominante. A guerra (Fe) e o ima do topo; a conta (Razao) e a ponte do meio e fundo. NUNCA misturar as duas na mesma peca — antes de publicar, perguntar: *esta peca e da Fe ou da Razao?*
+## Rotas que podem coexistir
 
-| Etapa do funil | Marcha dominante | Mix (Fe / Razao) |
-|----------------|------------------|------------------|
-| Topo de funil (cortes virais, alcance) | **Fe** puxa o alcance (polemica viraliza) | 70 / 30 |
-| Meio (clicou, quer saber) | **Razao** segura o pragmatico | 30 / 70 |
-| Conversao (simulacao, contato closer) | **Razao** pura — aqui e a conta, nao a cruzada | 10 / 90 |
-| Comunidade (ja e Dono) | **Fe** plena — agora pertence | 90 / 10 |
+- Família aprende no DAP e aplica ao próprio planejamento, sem outro produto.
+- Participante da Conta do Dono recebe seu plano; pode pedir avaliação ou continuar preparando recursos.
+- Membro da Comunidade estuda caso e usa Arremata conforme seu acesso; pode descartar uma compra por risco.
+- Interessado em atuação profissional escolhe formação e verifica requisitos. Comprar para si não o torna assessor; ser capitão não o torna representante.
+- Pessoa com pedido comercial direto pode ser atendida sem passar por curso ou duas edições de evento.
 
-> O ima atrai no topo (Fe), a ponte converte no meio (Razao), a cola retem no fundo (pertencimento). A Marcha da Razao e a ponte que faltava — e o escudo juridico do movimento.
+## Preservar a promessa de ponta a ponta
 
-## Protocolo de CTA
+Objetivo → entrada anunciada → compra/inscrição quando aplicável → acesso e entrega → compreensão → próximo passo pertinente. Uma nova oferta não apaga plano, aula ou suporte já prometidos.
 
-- **Um unico CTA por peca** — nunca dois pedidos competindo
-- CTA sempre depois do valor entregue, nunca antes
-- Todo link carrega UTM padronizada por canal e campanha
-- Tags por origem para mapear de qual conteudo o Dono entrou
-- Sequencia de follow-up automatizada apos cada entrada de lead
+Na Black, a direção de 19/10 é testar em 22/10 uma oferta principal de Comunidade com opção de consórcio dentro dela. Continuidade é condicional. Preço, benefício e mecanismo financeiro vivem na [ficha P01](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/black-friday-2026/experimentos.md); não herdar regras de outras edições. [Conta do Dono](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/conta-do-dono/README.md) e [DAP](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/dap/README.md) conservam suas entregas.
 
-## Metricas por degrau
+## Encaminhamento e governança
 
-| Degrau | Metrica principal | Fonte |
-|--------|-------------------|-------|
-| Topo de funil | Alcance / novos Donos | Meta Ads + IG/YT analytics |
-| Entrada | Inscritos C31 + presenca live | Brevo + YouTube |
-| Nucleo | Membros ativos Cademi + engajamento | Cademi |
-| Ferramenta | MRR + churn + NRR | Arremata dashboard |
-| Topo da escada | Revenue consultoria + cases | Bitrix pipeline |
+Felipe responde por Growth; Adrian pelo Comercial Yes; Nériton por Sistemas. Produto e CS respondem pela entrega contratada. Tadeu conduz o canal de representantes no escopo vigente; formação geral de iniciantes exige capacidade própria. Operação e pedagogia do Arremata seguem os responsáveis do produto, sem atribuição automática a Sistemas. Facilitação comunitária e supervisão profissional nova exigem dono e capacidade confirmados; não presumir Edwards operador diário nem Kamila facilitadora geral.
+
+Novos leads comerciais passam primeiro pela Julia. Quando já existe atendimento humano ativo, preservar oportunidade, responsável, etapa e histórico. Vincular por telefone normalizado, guardar origem e assistências e não contar a mesma contratação como nova venda de cada canal.
+
+CTAs, keywords, destinos e cadências seguem a fonte Growth da entrada. Conferir anúncio, mensagem, página, checkout e acesso com perfil real antes de abrir. Este mapa não ativa automações nem inventa palavras de entrada.
+
+## Medir cada passagem
+
+| Etapa | Evidência e denominador |
+|---|---|
+| Aquisição | Pessoas/inscritos por origem, janela e custo quando houver mídia |
+| Participação | Presentes únicos entre elegíveis/inscritos; pico simultâneo separado |
+| Aprendizagem e ação | Entrega acessada, tarefa concluída e compreensão; vídeo visto não prova competência |
+| Compra educacional | Pagamento e cancelamento por produto; brinde separado |
+| Atendimento | Pedido explícito, resposta, qualificação, plano entregue e continuidade |
+| Contrato | Contrato/cota confirmado; reserva ou reunião não substituem |
+| Patrimônio | Contemplação, imóvel, primeiro imóvel e locação com provas separadas |
+| Atividade profissional | Formação, autorização, primeiro caso e entrega confirmada, sem confundir matrícula com aptidão |
+| Economia | Receita educacional, custos e comissão recebida por PJ; AS2 e AMC2 separadas |
+
+O primeiro ciclo estabelece baseline. Metas, orçamento e novos benefícios não decorrem deste mapa. Resultado patrimonial segue o [placar](placar.md); ajuda e recorrência seguem [reconhecimento](reconhecimento.md).

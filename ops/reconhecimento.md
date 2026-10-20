@@ -1,71 +1,48 @@
-# Reconhecimento e Comunidade — Operacional
+# Reconhecimento e comunidade — Dono ajuda Dono
 
-## Principio
+Revisão: 20/10/2026.
 
-Tribo forte se conecta de lado a lado (Dono <-> Dono), nao so de baixo pra cima (lider -> membro).
-A conexão horizontal permite participar, aprender e ajudar com autonomia.
+A comunidade ganha força quando a experiência de um ajuda o próximo a decidir e agir. O valor está tanto no avanço pessoal quanto na ajuda recebida e confirmada. Pertencimento não depende de compra, indicação comercial ou patrimônio prévio.
 
-## Sinais de reconhecimento
+## Sinais e práticas
 
-- **A saudacao:** "Dono?" — "Dono."
-- **O selo:** quem e Dono se identifica publicamente (bio, comentario, apresentacao)
-- **O gesto de prova:** ao fechar conquista, compartilha com a frase do pacto
+A saudação “Dono?” — “Dono.”, a identificação voluntária e o Pacto da Geração preservam reconhecimento. Ninguém precisa publicar o nome, expor finanças ou defender Anthony para participar.
 
-## Protocolo de multiplicacao
+Celebrar uma dúvida resolvida, orçamento organizado, risco identificado, decisão fundamentada ou etapa patrimonial comprovada. Um bom descarte pode proteger uma família. Compra não é a única forma de avanço.
 
-- Todo Dono novo é acolhido; apresentação pública depende de consentimento
-- Quem traz novo Dono e reconhecido — o pacto vira status
-- Historias de transformacao creditam quem indicou o caminho
-- Espacos Dono <-> Dono sao tao prioritarios quanto conteudo do lider
+Casos públicos exigem consentimento, minimização de dados e estágio correto. Contemplação, escritura e locação têm nomes próprios no [placar](placar.md). Não criar ranking de cartas, ticket ou maiores compradores; contribuição útil não é medida por recrutamento.
 
-## Workflow
+## Jornada proposta na atividade existente
 
-| Etapa | Dono |
-|-------|------|
-| Curadoria de vitorias (contemplacao, escritura) | Kamila (CS) |
-| Produzir post/story de reconhecimento | Carla + clipadores |
-| Publicar reconhecimento | Felipe Clavijo (Head de Growth) |
-| Animar comunidade Cademi | Edwards |
-| Programa de indicacao (Dono traz Dono) | Carla (estrutura) + Edwards (execucao) |
+A Comunidade já oferece aulas, casos e interação. Esta aplicação busca conectar esse repertório a ações observáveis, sem prometer benefício adicional ao acesso contratado.
 
-## Programa de indicacao — a construir
+| Etapa | Participante | Apoio e prova |
+|---|---|---|
+| Entrada | Declara objetivo e etapa; interesse profissional somente se voluntário | Conteúdo e canal pertinentes; informações financeiras em privado |
+| Primeiro avanço | Escolhe e conclui uma ação que cabe no momento | Ação explicada e compreensão confirmada |
+| Participação | Traz uma dificuldade ou aprendizado ao encontro existente | Troca útil; presença isolada não prova aprendizagem |
+| Contribuição | Compartilha experiência que ajuda outra pessoa | Destinatário confirma ajuda; sem prestar serviço técnico fora do escopo |
+| Responsabilidade | Demonstra escuta e vontade de facilitar | Capacidade e limites verificados antes de liderar |
 
-- [ ] Definir mecanismo: o que o Dono ganha ao trazer outro Dono
-- [ ] Criar tracking (UTM/codigo por Dono)
-- [ ] Montar fluxo automatico de notificacao
-- [ ] Reconhecimento publico mensal dos maiores indicadores
+Ser capitão não habilita representação comercial ou supervisão técnica. Participação voluntária não implica executar trabalho operacional gratuito. Formação para atuar profissionalmente é outro eixo e depende de escopo e requisitos; ver [Peça 16](../doutrina/16-ecossistema-e-proposta-de-valor.md).
 
-## Jornada do membro — primeira aplicação
+## Primeiro teste — proposta, não turma lançada
 
-Atualização: 20/10/2026. **Proposta operacional para validação de capacidade**, ainda sem lançamento, convite ou promessa de benefício adicional. Reutiliza as células da Peça 11 e a cadência da Peça 13. Não cria um novo curso nem uma nova reunião do CEO. Acesso a cada produto permanece conforme oferta contratada.
+1. Começar na Comunidade existente; a Conta do Dono pode trazer casos e C31 compartilhar aprendizados autorizados. Felipe articula com o responsável da entrega um facilitador e a capacidade para usar uma atividade existente. CS participa somente no suporte contratado. Não presumir Edwards animador diário ou Kamila facilitadora geral.
+2. Usar um roteiro breve na atividade: uma vitória, uma dificuldade e um próximo passo. O formato respeita a entrega anunciada; não cria nova live de Anthony.
+3. Observar quatro semanas como janela de processo, não prazo de aquisição ou renda. A escolha do público e da atividade depende da capacidade confirmada.
+4. Registrar no sistema existente, com dados pessoais restritos. Rever antes de expandir células ou prometer acompanhamento.
 
-Dono é quem assume responsabilidade pelas decisões e participa do propósito. Compra, indicação comercial e patrimônio prévio não são requisitos para merecer respeito ou pertencimento.
+## O que observar
 
-| Etapa | Ação do membro | Apoio e responsável proposto | Evidência de avanço |
-|---|---|---|---|
-| Entrada | Declara objetivo, etapa atual e dúvida principal | CS acolhe no canal já contratado; não coletar dados financeiros em grupo | Objetivo e próximo passo registrados em privado |
-| Primeiro avanço | Conclui uma ação possível: estudar um tema, organizar informações ou esclarecer uma dúvida | CS encaminha conteúdo e suporte já disponíveis | Ação concluída e compreensão confirmada; compra não obrigatória |
-| Participação | Compartilha uma dúvida ou aprendizado no encontro existente | Facilitador conduz; CS resolve questões contratuais em privado | Participação útil, não apenas visualização |
-| Contribuição | Ajuda outro membro com experiência, sem prometer resultado ou prestar serviço técnico fora do escopo | Facilitador reconhece a contribuição com consentimento | Ajuda recebida confirmada pelo outro membro |
-| Responsabilidade | Se voluntaria e demonstra capacidade de acolher e conduzir | Edwards/Kamila avaliam; aproveitar formação de capitães prevista | Encontro conduzido e feedback dos participantes |
-
-### Começar pequeno e comprovar
-
-1. Edwards/Kamila verificam capacidade e elegibilidade para usar um grupo existente, com um facilitador identificado. Sem capacidade confirmada, manter como proposta.
-2. Na próxima atividade já prevista, aplicar o roteiro: uma vitória, uma dificuldade, um próximo passo. Não adicionar live obrigatória de Anthony.
-3. Acompanhar por quatro semanas como teste proposto. A janela mede o processo, não promete transformação patrimonial nesse prazo.
-4. Registrar evidências no sistema de atendimento existente. Não criar aplicativo, ranking de compras ou planilha pública de dados pessoais.
-5. Expandir somente depois de demonstrar ajuda útil, recorrência e condução sem depender do CEO. Divisão de células não é meta automática.
-
-### Métricas do teste
-
-| Métrica | Definição |
+| Indicador | Definição |
 |---|---|
-| Ativação | Entrantes elegíveis que concluíram a primeira ação em até sete dias / entrantes elegíveis com sete dias completos de acompanhamento |
-| Participação recorrente | Participantes presentes em ao menos dois encontros / participantes com ao menos dois encontros disponíveis no período |
-| Ajuda entre membros | Ajuda útil confirmada pelo destinatário; registrar tipo, não valor de compra |
-| Autonomia | Encontros conduzidos pelo facilitador sem intervenção de Anthony / encontros realizados |
-| Esforço de operação | Tempo de CS e facilitação por participante ativo; tempo de Anthony separado |
-| Resultado patrimonial | Marcos comprovados conforme [placar](placar.md), sem confundir com engajamento |
+| Clareza | Participante explica o que recebeu e seu próximo passo |
+| Ativação | Elegíveis com primeira ação em sete dias / elegíveis com sete dias completos de observação |
+| Recorrência | Pessoas em ao menos dois encontros / pessoas com dois encontros disponíveis |
+| Ajuda | Ajuda útil confirmada pelo destinatário, com tipo e contexto |
+| Autonomia | Atividades conduzidas pelo facilitador sem intervenção do CEO / realizadas |
+| Esforço | Tempo de facilitação e suporte por participante ativo; Anthony separado |
+| Patrimônio | Marcos comprovados conforme placar, separados do engajamento |
 
-Primeiro ciclo estabelece baseline. Não inventar meta percentual ou alegar melhora de retenção, receita ou custo antes de medir. Reconhecimento prioriza contribuição e evolução; indicação comercial permanece um programa separado.
+Primeiro ciclo estabelece baseline. Não afirmar efeito em retenção, receita ou custo antes de medir. Programa de indicação comercial, benefício por indicação e automações são decisões próprias; este documento não os lança. [Células e capitães](../doutrina/11-celulas-e-capitaes.md) e [Liturgia](../doutrina/13-a-liturgia-permanente.md) dão a arquitetura a testar.

@@ -1,54 +1,30 @@
-# Midia e PR — Operacional
+# Mídia e PR — representar a causa com clareza
 
-Última atualização editorial: 20/10/2026.
+Revisão: 20/10/2026.
 
-## As 3 ancoras inegociaveis
+Uma boa aparição deixa clara a família que queremos servir, a decisão que ajudamos a compreender e a evidência disponível. A história do líder aproxima; a missão devolve o foco às pessoas.
 
-Em qualquer aparicao, dizer:
+## Três âncoras
 
-1. **O inimigo:** "o sistema treinou o brasileiro a financiar"
-2. **A visao:** "100 mil familias livres"
-3. **A mecanica:** "paga menos, possui mais"
+1. **Missão:** 100 mil famílias comprando o primeiro imóvel.
+2. **Competência:** entender objetivo, conta, risco e próximo passo.
+3. **Legado:** “O primeiro imóvel é para você. O segundo é para uma geração.”
 
-Se a entrevista acabar e essas tres nao foram ditas, a aparicao foi desperdicada.
+São orientações de mensagem, sem obrigação de desviar toda pergunta para um slogan. Responder primeiro ao que foi perguntado.
 
-## Por canal
+| Canal | Conduta |
+|---|---|
+| Podcast | História, raciocínio completo e caso com condições |
+| Jornal / TV | Frases curtas, número verificável e distinção entre objetivo e resultado |
+| Corte | Um ponto compreensível isoladamente, preservando premissas relevantes |
+| Pergunta crítica | Escutar, conferir a premissa, responder com fatos e reconhecer limites |
 
-| Canal | Postura | Objetivo |
-|-------|---------|----------|
-| Podcast longo | Profundidade, historias, numeros | Autoridade + cortes virais |
-| Jornal / TV | Frieza maxima. Frases curtas, a prova de edicao | Credibilidade + alcance |
-| Cortes / Reels | Um ponto so. Abre com polemica, fecha com frase-mae | Viralizacao + topo de funil |
-| Entrevista hostil | Nao revida no grito. Devolve com numero | Virar ataque em prova |
+## Preparação e aproveitamento
 
-## Workflow
+Felipe avalia oportunidades e coordena a preparação na agenda existente. Briefing reúne público, pergunta central, dado conferido, caso autorizado, oferta se pertinente e temas sensíveis. Confirmar condições antes de agendar compromissos do CEO; não há nova obrigação de aparições ou quantidade fixa de cortes.
 
-```
-Felipe Clavijo (Head de Growth) prospecta podcast/midia (lista mensal)
-    |
-    v
-Felipe Clavijo (Head de Growth) agenda no calendario Anthony
-    |
-    v
-Carla prepara briefing 24h antes (1 pagina: 3 ancoras + dados + case)
-    |
-    v
-Anthony participa
-    |
-    v
-Clipadores extraem 5-10 cortes
-    |
-    v
-Felipe Clavijo (Head de Growth) distribui em todos os canais
-```
+A [Origem](../doutrina/09-a-origem.md) é uma história atribuída ao livro, não comprovação de resultados de todos os clientes. “Nunca Financia” é linguagem histórica; comparações dependem do caso. Não chamar crédito vendido de receita, contrato de imóvel ou participante de comprador.
 
-## Regra
+Ao citar o ecossistema, diferenciar movimento, cultura/evento C31, produtos educacionais, consultoria e ferramentas. A [Peça 16](../doutrina/16-ecossistema-e-proposta-de-valor.md) centraliza fronteiras e fontes. Condições de edição não viram promessa geral em entrevista.
 
-Nenhuma aparicao de midia acontece sem briefing da Carla entregue 24h antes.
-
-## Protocolo de aproveitamento
-
-- Toda aparicao gravada em alta para gerar cortes
-- Meta: 5-10 cortes por podcast longo
-- Cada corte abre com gancho polemico nos primeiros 3 segundos
-- Lower third padronizado para "educacao silenciosa" da marca
+Produzir cortes aproveitáveis conforme material e capacidade reais. Manter fonte, consentimento e contexto; não escolher polêmica que inverta a conclusão. Crises seguem [Os Anticorpos](../doutrina/12-os-anticorpos.md).

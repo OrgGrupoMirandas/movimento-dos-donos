@@ -24,11 +24,17 @@ A missão pública é **100 mil famílias comprando o primeiro imóvel**. O marc
 - Provas individuais ficam em ambiente restrito. Comunicação pública usa dados agregados e casos autorizados.
 - Qualquer celebração informa o estágio: adesão, contemplação, aquisição ou primeiro imóvel. Atingir 100 mil adesões não encerra a missão.
 
+## Economia e reconhecimento
+
+Aquisição de audiência, participação em evento e compra educacional têm indicadores próprios no [funil](funil.md); não entram como conquista patrimonial. Crédito vendido, receita educacional, comissão prevista e comissão recebida permanecem separados. Toda apuração financeira/comercial nasce por PJ: **AS2 e AMC2 não são consolidadas como uma única régua**.
+
+O placar coletivo não é ranking de pessoas por compra, cartas, ticket ou indicação. Reconhecimento também acolhe ação concluída e ajuda útil, conforme [reconhecimento](reconhecimento.md). Uma decisão fundamentada de não comprar tem valor educativo, sem incrementar aquisições.
+
 ## Responsabilidades e implantação
 
 | Responsável | Entrega |
 |---|---|
-| Kamila / CS | Conferir marcos e evidências do atendimento |
+| Kamila / CS | Conferir marcos e evidências dentro do atendimento contratado; aquisição/locação podem exigir fonte e responsável próprios |
 | Edwards + Midiane | Conciliar critérios e números antes de divulgação; revisão periódica |
 | Nériton | Avaliar implementação de deduplicação e atualização após critérios fechados |
 | Felipe Clavijo / Growth + Carla | Comunicar somente o indicador validado com nome e corte corretos |
