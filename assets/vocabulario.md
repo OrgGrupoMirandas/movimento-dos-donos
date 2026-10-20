@@ -1,36 +1,35 @@
-# Vocabulario da Tribo — Inegociavel
+# Vocabulário dos Donos
 
-> Tribo tem lingua propria. Estes termos sao inegociaveis: todo mundo usa exatamente assim.
-> A linguagem cria a fronteira entre quem e de dentro e quem e de fora.
+Revisão: 20/10/2026. Linguagem comum para preservar identidade e esclarecer o que cada nome significa.
 
-| Termo | O que significa | Como usar |
-|-------|-----------------|-----------|
-| **Nunca Financia** | O grito de guerra. Recusa a divida cara e burra do banco. | Abre video, fecha palestra, gera polemica. |
-| **Dono** | A identidade da tribo. Liberdade + patrimonio + responsabilidade. | Sempre no lugar de "aluno", "seguidor" ou "cliente". |
-| **Alavanca** | O lance no consorcio. A engenharia que multiplica patrimonio. | "Usar a alavanca", "engenharia de patrimonio". |
-| **Codigo 31** | O rito de passagem de 31 dias. | Como desafio e porta de entrada. |
-| **Paga Menos, Possui Mais** | A mecanica em uma frase. | Resumo do metodo, sempre que explicar o "como". |
-| **O Sistema** | O antagonista: o modelo bancario de financiamento. | Nunca personalizar num banco so. "O sistema" e maior. |
-| **Divida inteligente** | O oposto da divida do banco. Estruturada, planejada. | Contraste direto com "divida cara". |
-| **100 mil familias livres** | A visao. O destino coletivo. | Sempre que a conversa precisar de causa, nao de produto. |
-| **O Pacto da Geracao** | O mantra do legado. | Fecha historias de prova, eleva a visao, ancora topo. |
+| Termo | Significado e uso |
+|---|---|
+| **Dono** | Responsabilidade, participação e construção patrimonial. Não certifica imóvel ou ausência de dívida. Aluno, cliente e titular seguem precisos no atendimento. |
+| **Movimento dos Donos** | Identidade e causa ampla; não equivale à matrícula em todos os produtos. |
+| **Comunidade dos Donos** | Produto educacional de conteúdo amplo, aulas, casos e interação, com acesso contratado. |
+| **Código 31** | Cultura e evento, com encontro, aprendizagem, reconhecimento e oferta da edição. Não significa acompanhamento de 31 dias. |
+| **DAP / Do Zero ao Patrimônio** | Low ticket de aquisição de público frio e entrega educativa própria. |
+| **Conta do Dono** | Evento semanal de demonstração prática e aquisição, com plano prometido e ponte para a Comunidade. C31 substitui nas semanas próprias; não é sinônimo de C31. |
+| **Arremata.ai** | Ferramenta transversal; tutoriais de uso não equivalem à formação profissional. |
+| **Arrematador Profissional** | Formação existente, distinta da ferramenta; escopo, preço e entrega ainda não verificados. |
+| **Nunca Financia** | Linguagem histórica de contestação; não recomendação universal ou ataque a quem financiou. |
+| **Paga Menos, Possui Mais** | Intenção de eficiência; exige comparação com custos, prazos, riscos e condições. |
+| **Alavanca** | Recurso de uma estratégia, como lance; envolve condições e riscos, sem multiplicação garantida. |
+| **Dívida inteligente** | Decisão avaliada no caso; não atributo automático de consórcio ou outro produto. |
+| **O Sistema** | Recurso crítico histórico; usar fatos concretos, sem conspiração ou obrigação de confronto. |
+| **100 mil famílias livres** | Expressão de visão; missão mensurável é 100 mil famílias comprando o primeiro imóvel. |
+| **Pacto da Geração** | “O primeiro imóvel é para você. O segundo é para uma geração.” |
+| **Capitão** | Papel comunitário de facilitação, distinto de representante e técnico. |
+| **Fundador** | Conceito de memória dos primeiros; critérios e benefícios precisam de prova. |
 
-## Frases-mae
+## Frases que orientam
 
-| Camada | Frase |
-|--------|-------|
-| Ideologia | "O brasileiro nao e burro. Ele foi treinado para financiar." |
-| Visao | "Quando voce me segue, nao esta seguindo um influenciador. Esta ajudando a libertar 100 mil familias brasileiras." |
-| Identidade | "Aqui ninguem vive de aparencia. Aqui todo mundo vira Dono." |
-| Ritual | "31 dias para virar Dono. 31 dias para quebrar o sistema." |
-| Mecanica | "O banco te vende divida cara. Eu te ensino divida inteligente." |
-| Prova | "Se existe um brasileiro fazendo, todos podem fazer." |
-| Voz | "Isso nao e opiniao. Isso e matematica." |
-| Mantra | "O primeiro imovel e para voce. O segundo e para uma geracao." |
-| Placar | "Nao e uma meta de vendas. E uma contagem regressiva para a liberdade de 100 mil familias." |
+- **O primeiro imóvel é para você. O segundo é para uma geração.**
+- **Quem aprende, ensina. Quem avança, abre caminho.**
+- **Entenda a conta. Escolha o próximo passo.**
+- **Uma boa decisão também pode ser esperar.**
+- **O bilhão não é meu. É das 100.000 famílias. Eu só executo.**
 
-## Regra de ouro
+Identidade acolhe; oferta explica. Ninguém precisa comprar consórcio, aderir à fé do líder ou desenvolver uma profissão para pertencer. Acesso pago segue contrato. Termos fortes não substituem prova ou escondem obrigação.
 
-Nunca dilua. "Financiamento ruim" nao existe — existe "a coleira".
-"Comprar um curso" nao existe — existe "virar Dono".
-A palavra escolhida carrega a ideologia. Trocar a palavra e enfraquecer o movimento.
+Mentoria 10X, Consultoria 10X, Arremata.ai, Arrematador Profissional e Vendedor de Elite têm fronteiras próprias, detalhadas na [Peça 16](../doutrina/16-ecossistema-e-proposta-de-valor.md). Primeiro imóvel, expansão e renda são objetivos internos; não novos nomes comerciais.
