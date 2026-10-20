@@ -12,7 +12,7 @@ Uma comunidade rica tem conhecimento utilizável, relações de confiança, comp
 
 Isso amplia o desenho anterior, centrado em primeiro imóvel, expansão e renda. Esses continuam sendo objetivos patrimoniais. Falta acrescentar um segundo eixo: **o papel que a pessoa quer exercer**, para si ou atendendo terceiros. Um representante pode estar preparando seu primeiro imóvel; um investidor pode não querer vender nem prestar serviço algum.
 
-A síntese aplicável ao alinhamento de Felipe com delivery está nas [nove fichas de programas](../ops/programas.md): benefício para a pessoa, entrega, primeiro marco e decisões de validação. Este capítulo conserva a análise que sustenta esse desenho.
+A síntese para Felipe está no [guia integrado — Movimento, cultura e nove programas](../ops/programas.md): missão, significado do C31, ritos e continuidade propostos, benefício, entrega e primeiro marco. O [Manual de Cultura T4-2026, aprovado em 20/10/2026](https://github.com/OrgGrupoMirandas/playbook-onboarding/blob/09edbe3a70d29575568de61f301e036f9ce98787/00-fundamentos/02-manual-cultura.md), é a referência institucional atual: ajudar famílias a conquistar seu imóvel e construir patrimônio; visão de ajudar 100 mil famílias a conquistar o primeiro imóvel até 2036. Sua aplicação pública não transfere regras ou prêmios de colaboradores à Comunidade. Este capítulo conserva a análise que sustenta esse desenho.
 
 ## Os ativos e a função de cada um
 

@@ -6,7 +6,7 @@ Uso interno · Autor: Anthony Miranda · Revisão editorial: 20/10/2026.
 
 Somos um movimento de famílias que aprendem a decidir, construir e cuidar do patrimônio. O nome expressa responsabilidade: assumir o próprio caminho e ajudar quem vem depois.
 
-Nossa missão pública é **100 mil famílias comprando o primeiro imóvel**. O trabalho continua na próxima aquisição, no imóvel que precisa funcionar e no legado que fica. O bilhão é o recibo; as famílias são a razão.
+Nossa missão é **ajudar famílias a conquistar seu imóvel e construir patrimônio**. A visão institucional aprovada é **ajudar 100 mil famílias a conquistar o primeiro imóvel até 2036**, conforme o [Manual de Cultura T4-2026, aprovado em 20/10/2026](https://github.com/OrgGrupoMirandas/playbook-onboarding/blob/09edbe3a70d29575568de61f301e036f9ce98787/00-fundamentos/02-manual-cultura.md). Metas comerciais têm período e indicador próprios. O trabalho continua na próxima aquisição, no imóvel que precisa funcionar e no legado que fica. O bilhão é o recibo; as famílias são a razão.
 
 Este documento organiza identidade, cultura e a relação entre as frentes existentes. Propostas de operação estão identificadas como propostas. O texto não lança produtos nem muda contratos.
 
@@ -85,7 +85,7 @@ Os nomes existentes permanecem. Não há uma escada obrigatória de compras.
 
 A Conta do Dono já fornece o ritmo público semanal; nas semanas próprias, o C31 a substitui como um evento de dois dias por edição. Não há live adicional. A recomendação é uma Comunidade contínua, com caminhos por objetivo e aplicação entre eventos; Arrematador Profissional e Vendedor de Elite são trilhas profissionais voluntárias.
 
-A análise de valor, sobreposições, oportunidades e fontes está na [Peça 16 — Ecossistema e proposta de valor](doutrina/16-ecossistema-e-proposta-de-valor.md). Rotas e entregas ficam em [ops/funil.md](ops/funil.md). As [nove fichas de programas para alinhar Growth e delivery](ops/programas.md) organizam benefício, entrega, primeiro marco e pendências de validação, sem lançar ofertas.
+A análise de valor, sobreposições, oportunidades e fontes está na [Peça 16 — Ecossistema e proposta de valor](doutrina/16-ecossistema-e-proposta-de-valor.md). Rotas e entregas ficam em [ops/funil.md](ops/funil.md). O [guia integrado para Felipe — Movimento, cultura e nove programas](ops/programas.md) conecta a missão, o significado cultural do C31, os ritos propostos e as fichas de benefício/entrega, com referência ao documento institucional atual aprovado e à versão do Movimento em revisão.
 
 Na direção Black de 19/10, a oferta principal é a Comunidade, com opção de consórcio dentro dela. Piloto previsto para 22/10; continuidade condicionada ao resultado. Preços, benefícios, mecanismo financeiro e pendências ficam somente na [ficha P01](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/black-friday-2026/experimentos.md), sem criar regra universal neste movimento.
 

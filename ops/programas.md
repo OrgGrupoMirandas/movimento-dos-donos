@@ -1,12 +1,12 @@
-# Programas e proposta de valor dos Donos
+# Movimento dos Donos — cultura, programas e jornada da família
 
 Material de trabalho para Felipe Clavijo, Head de Growth · 20/10/2026.
 
-**Proposta editorial para alinhar comunicação e entrega.** Reúne os programas existentes; não lança ofertas, altera contratos, preços, acessos ou atribuições. Benefícios abaixo são formulações de posicionamento, a conferir com a entrega de cada programa antes de publicação.
+**Guia integrado para alinhar causa, cultura, comunicação e entrega.** A referência institucional é o Manual de Cultura T4-2026, aprovado em 20/10/2026; a aplicação pública e as fichas deste guia integram a proposta editorial do Movimento em revisão no PR3. Reúne os programas existentes; não lança ofertas, altera contratos, preços, acessos ou atribuições. Benefícios abaixo são formulações de posicionamento, a conferir com a entrega de cada programa antes de publicação.
 
 ## A tese que conecta tudo
 
-**O Movimento dos Donos ajuda famílias a transformar conhecimento em decisões e ações patrimoniais responsáveis. A missão é 100 mil famílias comprando o primeiro imóvel, com continuidade na expansão, na renda e no legado. A Comunidade é a casa contínua dessa aprendizagem; cada programa resolve uma necessidade específica.**
+**O Movimento dos Donos ajuda famílias a transformar conhecimento em decisões e ações patrimoniais responsáveis. Nossa missão institucional é ajudar famílias a conquistar seu imóvel e construir patrimônio. A visão aprovada é ajudar 100 mil famílias a conquistar o primeiro imóvel até 2036, com continuidade na expansão, na renda e no legado. A Comunidade é a casa contínua dessa aprendizagem; cada programa resolve uma necessidade específica.**
 
 DAP permite começar a aprender. Conta do Dono demonstra a decisão na prática. C31 concentra cultura, casos e mobilização. A Comunidade liga repertório, relações e aplicação. A linha 10X organiza orientação e análise individual, com a fronteira entre Mentoria e Consultoria a validar; Arremata.ai apoia tarefas como ferramenta. Arrematador Profissional e Vendedor de Elite atendem escolhas profissionais voluntárias.
 
@@ -25,6 +25,61 @@ Não há escada obrigatória. Uma família pode alcançar seu objetivo sem contr
 | Vendedor de Elite | Aprender e atuar pelo canal de representantes, conforme requisitos |
 
 **Como ler as fichas:** “documentado” indica fonte disponível, não auditoria de toda a entrega. “Proposto” é desenho a validar. Os primeiros marcos são critérios sugeridos de acompanhamento, sem meta numérica ou garantia de resultado.
+
+## A causa, a origem e o compromisso dos Donos
+
+> **O primeiro imóvel é para você. O segundo é para uma geração.**
+
+O pacto liga uma conquista presente à capacidade de construir para quem vem depois. O relato pessoal de Anthony preservado na [Origem](../doutrina/09-a-origem.md) recorda a responsabilidade com a própria família e a importância de ouvir e explicar antes de vender. A história institucional reúne consórcio, digital e imobiliário. O líder dá voz à causa; a família permanece no centro.
+
+**Ser Dono é assumir responsabilidade pelas decisões e ajudar o próximo a fazer o mesmo.** Pode começar preparando recursos, fazendo uma pergunta ou reconhecendo um risco. Pertencer não exige comprar, possuir imóvel, professar a fé do fundador ou trabalhar no setor. Acesso a produtos continua sendo o contratado.
+
+Na linguagem proposta do Movimento, “Quem aprende, ensina. Quem avança, abre caminho” é o compromisso; “Dono?”—“Dono.” é a saudação voluntária. “Nunca Financia” é expressão histórica, não orientação universal ou julgamento de quem financiou. “Paga Menos, Possui Mais” exige comparação com condições reais. A identidade incentiva competência e responsabilidade, sem substituir os termos aluno, cliente ou titular no atendimento.
+
+A iconografia já possui conceitos de chave, monograma 31, paleta e gestos em estudo. São referências propostas, não um kit aprovado ou prova de resultado. Felipe pode preservar a intenção e usar os ativos efetivamente aprovados, sem anunciar selo, benefício ou emblema ainda não definido.
+
+## A cultura que dá direção ao Código 31
+
+**Documento atual aprovado:** [Manual de Cultura — T4-2026, 20/10/2026](https://github.com/OrgGrupoMirandas/playbook-onboarding/blob/09edbe3a70d29575568de61f301e036f9ce98787/00-fundamentos/02-manual-cultura.md), aprovado por Anthony. [Abrir o PDF oficial aprovado](https://drive.google.com/file/d/1lkzLo53aPM-QlfwTX4Y08-uX352fzvue/view). Essa é a referência institucional vigente; o Movimento está em revisão editorial.
+
+O manual define o Código 31: **“Três frentes na origem. Uma unidade de direção.”** Consórcio, digital e imobiliário guardam a história; a unidade orienta cada área a servir às famílias na sua função. O número ganha significado cultural antes de ser uma chamada de evento ou oferta.
+
+**Referências atuais do C31, conferidas em 20/10:** o [METODO.md no repositório C31](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/e497d6477546a4841f296bb512b1a385d97bdcf3/METODO.md) permanece identificado como v0/rascunho, atualizado em 30/09 e aguardando validação de Anthony. Suas seções CultureDay e encerramento descrevem ritos do time; não são regulamento de membros. Há [registro de CultureDay realizado em junho](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/e497d6477546a4841f296bb512b1a385d97bdcf3/edicoes/junho-2026/culture-day-realizado.md) e [roteiro temático de setembro](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/e497d6477546a4841f296bb512b1a385d97bdcf3/edicoes/setembro-2026/culture-day.md), este atualizado em 21/09 e sujeito à validação das palavras, sem comprovação de realização nessa fonte. Essas referências preservam a prática e a memória; o documento cultural aprovado é o manual T4-2026.
+
+Os princípios abaixo sintetizam o manual vigente. A coluna pública é nossa tradução proposta para a experiência dos Donos; não transforma o manual de colaboradores em regulamento de membros.
+
+| Referência institucional vigente | Expressão proposta na experiência pública |
+|---|---|
+| A verdade vem antes da conveniência | Explicar custos, riscos e limites; corrigir uma conta ou promessa errada |
+| Falar cedo protege a entrega | Acolher dúvida e dificuldade enquanto ainda é possível ajudar |
+| Clareza é responsabilidade dos dois lados | Explicar a entrega e conferir o que a pessoa entendeu |
+| Discordar também é cuidar da missão | Permitir questionar ideia ou oferta com respeito, inclusive ao líder |
+| Autonomia tem direção e responsabilidade | Apoiar uma decisão dentro da competência; encaminhar o que exige outra especialidade |
+| Ensinar, devolver e verificar | Demonstrar, deixar a pessoa aplicar e confirmar compreensão |
+| Excelência se verifica na entrega | Entregar o combinado e conferir se ajudou a família a avançar |
+| Reconhecer o que queremos multiplicar | Nomear ajuda útil, aprendizado aplicado e decisão responsável |
+| Nossos encontros precisam fazer avançar | Encerrar com próximo passo compreensível e retorno viável |
+
+O manual trata de cultura do Grupo, onboarding e liderança. Remuneração, medalhas, premiações ou direitos internos não são benefícios comunitários transferidos por este guia. No público, reconhecemos avanço e ajuda com consentimento, sem ranking de cartas, ticket ou compras. A visão de 100 mil famílias até 2036 é distinta das metas comerciais anuais ou de cada edição; contrato ou contemplação não comprovam primeiro imóvel.
+
+## Como a cultura aparece antes, durante e depois dos encontros
+
+**Base já documentada:** Conta do Dono como ritmo público semanal; C31 como cultura e evento de dois dias nas semanas próprias; Comunidade com aulas, dúvidas, casos e materiais. O calendário e as entregas das edições continuam sendo a referência operacional. A rotina abaixo é proposta de conexão entre esses ativos, sem acrescentar evento, reunião do CEO ou benefício contratado.
+
+| Momento | Prática cultural proposta | O que a pessoa leva |
+|---|---|---|
+| Antes | Acolher a pergunta e o objetivo; explicar o encontro e sua entrega; indicar preparação simples quando pertinente | Sabe por que participar e o que esperar |
+| Durante | Reconectar à missão; mostrar caso com condições; ensinar uma decisão, inclusive erro evitado ou não compra; reconhecer ajuda e identificar claramente a oferta | Entende o aprendizado e pode escolher livremente o próximo passo |
+| Depois | Cumprir plano, acesso ou atendimento prometido; indicar material e uma tarefa compatível; combinar retorno dentro da capacidade existente | Consegue aplicar e sabe onde buscar ajuda |
+| Entre encontros | Trazer dúvida, ação realizada e ajuda recebida à atividade existente; devolver caso autorizado como aprendizado | Encontra continuidade, e sua experiência pode ajudar outra família |
+
+O roteiro não obriga expor história pessoal, dados financeiros ou dificuldade em grupo. Uma participação silenciosa pode gerar avanço verificável em privado. Uma conquista só entra no placar com o nome e a prova do estágio correto.
+
+**Capitães e células:** a arquitetura já prevista distribui acolhimento e facilitação. São papéis a ativar quando houver demanda, vontade, capacidade e limites claros; não uma rede operacional comprovada. Uma célula pode reunir uma vitória, uma dificuldade e um próximo passo, sem tamanho mágico ou multiplicação automática. Capitão não vira vendedor, técnico ou trabalhador gratuito por reconhecimento comunitário.
+
+**Uma identidade, espaços de prática diferentes:** problemas de orçamento, primeira compra ou operação de locação podem pedir conversas próprias. Começar nos canais e atividades existentes. Abrir uma célula quando o problema recorrente e o facilitador justificarem, sem criar grupo obrigatório para cada produto. O primeiro ciclo proposto de quatro semanas observa tarefa, ajuda, retorno e esforço; não prova retenção ou LTV.
+
+A cultura aparece quando essas condutas se repetem, inclusive sem Anthony presente. A próxima ficha ou oferta deve servir à necessidade encontrada nesse caminho; a pessoa não precisa comprar mais para continuar merecendo atenção e respeito.
 
 ## DAP — Do Zero ao Patrimônio
 
@@ -120,7 +175,7 @@ Não há escada obrigatória. Uma família pode alcançar seu objetivo sem contr
 
 **Pendências para validar:** Felipe com responsáveis da edição: promessa, programação, caso autorizado, espaço de reconhecimento, oferta e destino; medir entrega e atendimento, além da sala e das vendas.
 
-**Fontes:** [método C31](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/main/METODO.md); [cultura e cadência](../doutrina/13-a-liturgia-permanente.md); [P01 Black](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/black-friday-2026/experimentos.md).
+**Fontes:** [Manual de Cultura atual aprovado, 20/10](https://github.com/OrgGrupoMirandas/playbook-onboarding/blob/09edbe3a70d29575568de61f301e036f9ce98787/00-fundamentos/02-manual-cultura.md); [método C31 — v0/rascunho no corte 20/10](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/e497d6477546a4841f296bb512b1a385d97bdcf3/METODO.md); [cultura e cadência](../doutrina/13-a-liturgia-permanente.md); [P01 Black](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/black-friday-2026/experimentos.md).
 
 ## Mentoria 10X
 
@@ -250,6 +305,7 @@ Esta é uma pauta proposta para alinhamento, não delegação já aceita ou prom
 |---|---|---|---|
 |1| Fronteira Mentoria/Consultoria 10X | Anthony, responsáveis da entrega e dos contratos; Edwards no seu escopo | Um quadro aprovado de público, intervenção, responsável, cadência e limites — ou proposta de simplificação para novas entradas |
 |1| Entrega Arrematador Profissional | Dono da formação/delivery a identificar | Pacote efetivamente acessível, papel desenvolvido, duração, suporte, prática/avaliação se existentes e primeiro marco compatível |
+|1| Cultura na experiência e no conteúdo Growth | Felipe e responsáveis pelo conteúdo e pelas entregas de Conta/C31 | Um fio validado missão→caso→aprendizado→reconhecimento→próximo passo, com promessas e ritos congruentes; reutilizar calendário e recursos existentes |
 |1| Jornada da Comunidade | Responsável da entrega e operador com capacidade a confirmar | Uma tarefa inicial, material certo, atividade existente e responsável pelo retorno; observar quatro semanas antes de expandir |
 |2| Congruência das entradas | Delivery de DAP/eventos; Adrian no Comercial e Nériton nas conexões | Percurso anúncio→destino→acesso/entrega→próximo passo testado; promessa de plano preservada por edição |
 |2| Ativação da frente Vendedor de Elite | Tadeu e responsáveis do canal | Duas entradas internas claras, requisitos e capacidade, sem nova oferta implícita ou credenciamento garantido |
@@ -258,3 +314,16 @@ Esta é uma pauta proposta para alinhamento, não delegação já aceita ou prom
 Para cada validação, registrar **confirmado / ajustar / pendente**, fonte, responsável que aceitou a entrega e próxima ação. Só depois adaptar página, pitch, onboarding e encaminhamento; contratos e condições específicos continuam sendo a referência comercial.
 
 O fechamento precisa responder: a pessoa entendeu o benefício, recebeu a entrega e avançou numa tarefa? Houve ajuda útil e retorno? Quanto tempo exigiu do time e de Anthony? Compra, contrato, imóvel e locação permanecem separados; margem real e recebimentos por PJ também. Isso permite melhorar o ecossistema sem confundir venda seguinte com sucesso da família.
+
+## Referências — documento atual e versão em revisão
+
+| Referência | Data e estado | Como usar |
+|---|---|---|
+| [Manual de Cultura institucional](https://github.com/OrgGrupoMirandas/playbook-onboarding/blob/09edbe3a70d29575568de61f301e036f9ce98787/00-fundamentos/02-manual-cultura.md) e [PDF oficial](https://drive.google.com/file/d/1lkzLo53aPM-QlfwTX4Y08-uX352fzvue/view) | T4-2026, aprovado por Anthony em 20/10/2026 | Fonte atual de missão, visão 2036, significado do C31 e princípios institucionais; não confundir com benefícios para membros |
+| [Método C31](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/e497d6477546a4841f296bb512b1a385d97bdcf3/METODO.md), [CultureDay realizado/junho](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/e497d6477546a4841f296bb512b1a385d97bdcf3/edicoes/junho-2026/culture-day-realizado.md) e [roteiro/setembro](https://github.com/OrgGrupoMirandas/playbook-codigo31/blob/e497d6477546a4841f296bb512b1a385d97bdcf3/edicoes/setembro-2026/culture-day.md) | Main conferida em 20/10; método v0/rascunho 30/09; registro realizado de junho; roteiro 21/09 sujeito à validação | Separar direção metodológica, execução histórica e roteiro; CultureDay do time não transfere medalhas/prêmios à comunidade pública |
+| [Histórico do manual institucional](https://github.com/OrgGrupoMirandas/playbook-onboarding/blob/09edbe3a70d29575568de61f301e036f9ce98787/00-fundamentos/03-historico-manual-cultura.md) | Versões anteriores, separadas do manual aprovado T4-2026 | Consultar evolução; não usar regra antiga como condição atual |
+| [Documento-mãe do Movimento](../README.md) e [PR3](https://github.com/OrgGrupoMirandas/movimento-dos-donos/pull/3) | Revisão editorial de 20/10/2026, em rascunho; sem merge | Identidade pública e proposta de conexão entre cultura, Comunidade e programas; este guia é parte da mesma revisão |
+| [Origem](../doutrina/09-a-origem.md), [células e capitães](../doutrina/11-celulas-e-capitaes.md), [liturgia](../doutrina/13-a-liturgia-permanente.md), [iconografia](../doutrina/15-a-iconografia.md) e [vocabulário](../assets/vocabulario.md) | Versão proposta no mesmo PR3 | Repertório da identidade, com estados e limites de implantação explícitos |
+| [Rotas de entrega](funil.md), [reconhecimento](reconhecimento.md) e [ecossistema](../doutrina/16-ecossistema-e-proposta-de-valor.md) | Mesma revisão editorial; fontes operacionais indicadas por frente | Conectar benefício, entrega e próxima ação. Fontes institucionais, contratos e condições de cada edição preservam sua autoridade própria |
+
+As fontes específicas de oferta e entrega estão nas nove fichas. Este documento organiza a leitura para Felipe; não substitui o manual aprovado, contratos ou a oferta anunciada de cada edição.
