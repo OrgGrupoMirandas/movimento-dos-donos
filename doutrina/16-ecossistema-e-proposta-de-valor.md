@@ -12,6 +12,8 @@ Uma comunidade rica tem conhecimento utilizável, relações de confiança, comp
 
 Isso amplia o desenho anterior, centrado em primeiro imóvel, expansão e renda. Esses continuam sendo objetivos patrimoniais. Falta acrescentar um segundo eixo: **o papel que a pessoa quer exercer**, para si ou atendendo terceiros. Um representante pode estar preparando seu primeiro imóvel; um investidor pode não querer vender nem prestar serviço algum.
 
+A síntese aplicável ao alinhamento de Felipe com delivery está nas [nove fichas de programas](../ops/programas.md): benefício para a pessoa, entrega, primeiro marco e decisões de validação. Este capítulo conserva a análise que sustenta esse desenho.
+
 ## Os ativos e a função de cada um
 
 | Ativo existente | Função no desenho | Entrega ou evidência existente | Evolução recomendada |
@@ -23,7 +25,7 @@ Isso amplia o desenho anterior, centrado em primeiro imóvel, expansão e renda.
 | **Consultoria 10X** | Análise individual e acompanhamento do caso no escopo contratado | Modelo de seis meses: dois encontros com Anthony, plano, dois com Edwards, WhatsApp/equipe e plataforma. Há casos de assistência prática e revisão de decisões | Evidenciar quem responde por cada etapa e o que foi concluído. Não apresentar como execução integral terceirizada ou aquisição garantida |
 | **Arremata.ai** | Ferramenta transversal para pesquisar, avaliar e acompanhar imóveis | Busca, análise, carteira e recursos de software; tutoriais de uso | Usar a ferramenta na tarefa adequada. Tutoriais e conteúdo no software não comprovam o catálogo de uma formação profissional |
 | **Arrematador Profissional** | Formação existente, distinta da ferramenta, conforme correção do CEO | Inventário histórico do CS de 02/08 lista a formação como produto separado | Conferir oferta, acesso, escopo e entrega atuais antes de recomendar matrícula ou prometer acompanhamento; preço e supervisão não verificados |
-| **Vendedor de Elite** | Formação comercial e aproximação voluntária ao canal de representantes | Material legado, ferramentas e guia/tour atualizados; regras de acesso e atuação do canal | Separar iniciante que precisa aprender de profissional pronto para ativar. Curso, contrato, acesso e autorização para operar são etapas distintas |
+| **Vendedor de Elite — canal de representantes** | Uma frente de formação e atuação comercial, conforme definição expressa do CEO | Material legado, ferramentas e guia/tour atualizados; regras do mesmo canal | Duas entradas internas: iniciante que precisa aprender e profissional pronto para ativar. Formação, contrato, credenciamento, acesso e atuação não são produtos separados |
 | **A Conta do Dono** | Evento semanal de demonstração prática e aquisição, com ponte para a Comunidade | Aulas e atendimento; plano individual prometido na jornada documentada | Usar demonstração e aplicação como ligação ao restante do ecossistema, preservando a entrega da edição |
 
 Consórcio é uma ferramenta comercial que pode servir ao plano da família. Sua contratação não é requisito de pertencimento nem comprova aquisição de imóvel. Arrematador Profissional e Vendedor de Elite são caminhos profissionais voluntários; Arremata.ai é ferramenta transversal. Essas frentes também podem atender pessoas que não entram pelo DAP.
@@ -105,9 +107,9 @@ Uma sequência proposta: entender uma tarefa → executar em caso delimitado →
 
 Comprar por conta própria, operar uma carteira e prestar serviço são atividades diferentes. A formação deve declarar qual delas desenvolve, quais atos exige de outros profissionais e quem revisa o trabalho. A responsabilidade técnica não pode ser transferida a um capitão apenas por ter reputação no grupo.
 
-### Vendedor de Elite: duas entradas, sem misturar operações
+### Vendedor de Elite: duas entradas internas da mesma frente
 
-A direção de Representantes de 19/10 prioriza profissionais/escritórios já atuantes. Essa entrada precisa de ativação: acesso, entendimento da rota, próximo caso e atendimento.
+**Vendedor de Elite é o canal de representantes**, conforme definição expressa do CEO em 20/10. Formação, contrato, credenciamento/rota, acessos e atuação são etapas internas, sem uma ponte fictícia entre dois produtos. A direção do canal de 19/10 prioriza profissionais/escritórios já atuantes. Essa entrada precisa de ativação: acesso, entendimento da rota, próximo caso e atendimento.
 
 Um membro iniciante interessado em trabalhar com consórcio precisa de preparação distinta: produto, atendimento, simulação revisada e rota de atuação confirmada. Essa formação não deve entrar silenciosamente como nova obrigação do canal atual. Seu responsável, capacidade e critérios ainda precisam ser definidos.
 

@@ -80,12 +80,12 @@ Os nomes existentes permanecem. Não há uma escada obrigatória de compras.
 | **Consultoria 10X** | Diagnóstico e plano individual, reuniões e apoio prático conforme contrato | Modelo descreve seis meses, duas reuniões Anthony, plano, duas Edwards e WhatsApp; não execução integral pelo time |
 | **Arremata.ai** | Ferramenta transversal para buscar, avaliar e acompanhar oportunidades | Tutoriais ensinam o software; não comprovam catálogo ou entrega de uma formação profissional |
 | **Arrematador Profissional** | Formação existente, distinta da ferramenta, conforme definição do CEO | Escopo, preço, formato e entrega não foram verificados nesta revisão |
-| **Vendedor de Elite / canal de representantes** | Formação comercial e caminho voluntário de atuação | Formação não é credenciamento; iniciante e profissional já operador têm necessidades diferentes |
+| **Vendedor de Elite — canal de representantes** | Uma frente de formação e atuação comercial, com entradas internas para iniciantes e experientes | Formação, credenciamento e atuação são etapas do mesmo canal; não há passagem entre dois produtos |
 | **Consórcio** | Uma ferramenta possível de aquisição | Adequação, custos, prazos e obrigações próprios; não é condição de pertencimento |
 
 A Conta do Dono já fornece o ritmo público semanal; nas semanas próprias, o C31 a substitui como um evento de dois dias por edição. Não há live adicional. A recomendação é uma Comunidade contínua, com caminhos por objetivo e aplicação entre eventos; Arrematador Profissional e Vendedor de Elite são trilhas profissionais voluntárias.
 
-A análise de valor, sobreposições, oportunidades e fontes está na [Peça 16 — Ecossistema e proposta de valor](doutrina/16-ecossistema-e-proposta-de-valor.md). Rotas e entregas ficam em [ops/funil.md](ops/funil.md).
+A análise de valor, sobreposições, oportunidades e fontes está na [Peça 16 — Ecossistema e proposta de valor](doutrina/16-ecossistema-e-proposta-de-valor.md). Rotas e entregas ficam em [ops/funil.md](ops/funil.md). As [nove fichas de programas para alinhar Growth e delivery](ops/programas.md) organizam benefício, entrega, primeiro marco e pendências de validação, sem lançar ofertas.
 
 Na direção Black de 19/10, a oferta principal é a Comunidade, com opção de consórcio dentro dela. Piloto previsto para 22/10; continuidade condicionada ao resultado. Preços, benefícios, mecanismo financeiro e pendências ficam somente na [ficha P01](https://github.com/OrgGrupoMirandas/playbook-growth/blob/main/01-processos/funis/black-friday-2026/experimentos.md), sem criar regra universal neste movimento.
 

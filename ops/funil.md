@@ -6,6 +6,8 @@ Revisão: 20/10/2026. Mapa documental do ecossistema; disponibilidade e integra�
 
 Registrar objetivo patrimonial, etapa e, se houver, interesse voluntário em atividade profissional. Primeiro imóvel, expansão e renda são segmentos internos; não novos nomes comerciais. Recursos e capacidade mensal entram em privado quando necessários. Quem precisa preparar a base pode estudar e esperar sem ser conduzido a outra compra.
 
+As [fichas dos nove programas](programas.md) detalham para quem cada frente serve, o que entrega e qual primeiro marco observar. Este mapa mostra as passagens opcionais entre elas.
+
 ## Frentes e passagem seguinte
 
 | Frente | Entrega central | Próximo passo possível |
@@ -19,7 +21,7 @@ Registrar objetivo patrimonial, etapa e, se houver, interesse voluntário em ati
 | Consultoria 10X | Diagnóstico, plano e apoio individual/prático conforme contrato | Decisões e execução assistida no escopo; cliente conserva responsabilidades e custos |
 | Arremata.ai | Ferramenta transversal de busca, análise e gestão | Usar recurso adequado à tarefa; tutorial de software não comprova formação profissional |
 | Arrematador Profissional | Formação existente, conforme definição do CEO | Escopo, preço e entrega ainda não verificados; não inventar módulos ou supervisão |
-| Vendedor de Elite / representantes | Formação comercial e canal voluntário | Iniciante aprende; profissional apto segue onboarding, contrato, rota e acessos aplicáveis |
+| Vendedor de Elite — canal de representantes | Uma frente de formação e atuação, com duas entradas internas: iniciante e experiente | Preparação, contrato, credenciamento/rota, acesso e atuação são etapas internas; confirmar requisitos e capacidade |
 | Consórcio | Ferramenta de aquisição possível | Avaliar adequação, contratar se pertinente e seguir pós-venda específico |
 
 O contrato-modelo da Consultoria descreve seis meses, duas reuniões com Anthony, plano, duas reuniões com Edwards e WhatsApp. Não promete execução integral pelo time. MP10X histórico incluía Anthony e a LP de Mentoria promete acompanhamento direto; o relato atual do CEO não comprova uma Mentoria autônoma sem ele. Fontes e proposta de fronteira na [Peça 16](../doutrina/16-ecossistema-e-proposta-de-valor.md).
